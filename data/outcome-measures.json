@@ -1,0 +1,911 @@
+[
+  [
+    "COSI",
+    "Client Oriented Scale of Improvement",
+    "Adult HA, CI, tinnitus, goal setting",
+    "Individualized goal identification and post-intervention change",
+    "NAL official source",
+    "Link only. Verify use terms before hosting.",
+    "cosi"
+  ],
+  [
+    "APHAB",
+    "Abbreviated Profile of Hearing Aid Benefit",
+    "Adult HA and unaided versus aided comparison",
+    "Communication difficulty across listening conditions",
+    "University of Memphis HARL",
+    "Link only unless permission allows.",
+    "aphab"
+  ],
+  [
+    "IOI-HA",
+    "International Outcome Inventory for Hearing Aids",
+    "Adult hearing aid outcomes",
+    "Global hearing aid benefit and satisfaction",
+    "University of Memphis HARL",
+    "Link only unless permission allows.",
+    "ioiha"
+  ],
+  [
+    "HHIA",
+    "Hearing Handicap Inventory for Adults",
+    "Adults under older-adult age range",
+    "Emotional and social impact of hearing loss",
+    "Validation publication",
+    "Link to source, do not reproduce unless permitted.",
+    "hhia_pub"
+  ],
+  [
+    "HHIE",
+    "Hearing Handicap Inventory for the Elderly",
+    "Older adults",
+    "Emotional and social impact of hearing loss",
+    "Validation publication",
+    "Link to source, do not reproduce unless permitted.",
+    "hhi_e_pub"
+  ],
+  [
+    "SSQ and SSQ-12",
+    "Speech, Spatial and Qualities of Hearing Scale",
+    "HA, CI, SSD, bimodal, complex listening",
+    "Speech, spatial hearing, sound quality",
+    "Validation publication",
+    "Link to official source or permitted version.",
+    "ssq_pub"
+  ],
+  [
+    "QuickSIN",
+    "Quick Speech-in-Noise Test",
+    "HA, CI candidacy, speech-in-noise counseling",
+    "SNR loss",
+    "Etymotic official source",
+    "Commercial/link only. Do not host audio or lists.",
+    "quick_sin"
+  ],
+  [
+    "BKB-SIN",
+    "Bamford-Kowal-Bench Speech-in-Noise Test",
+    "Pediatric and adult speech-in-noise",
+    "SNR loss with sentence materials",
+    "Commercial source",
+    "Commercial/link only. Do not host lists or audio.",
+    "quick_sin"
+  ],
+  [
+    "AzBio",
+    "AzBio Sentences",
+    "CI candidacy and outcomes",
+    "Sentence recognition",
+    "Auditory Potential",
+    "Commercial/link only. Do not host lists or audio.",
+    "azbio"
+  ],
+  [
+    "CNC",
+    "Consonant-Nucleus-Consonant words",
+    "CI candidacy and word recognition",
+    "Monosyllabic word recognition",
+    "Auditec",
+    "Commercial/link only. Do not host word lists/audio.",
+    "cnc"
+  ],
+  [
+    "CIQOL",
+    "Cochlear Implant Quality of Life instruments",
+    "Adult CI outcome tracking",
+    "CI-specific quality of life",
+    "MUSC official source",
+    "Link only, verify permissions.",
+    "ciqol"
+  ],
+  [
+    "UW-CAMP",
+    "University of Washington Clinical Assessment of Music Perception",
+    "CI music perception",
+    "Music perception",
+    "University source",
+    "Link only, verify licensing.",
+    "ciqol"
+  ],
+  [
+    "THI",
+    "Tinnitus Handicap Inventory",
+    "Tinnitus intake and outcomes",
+    "Functional, emotional, catastrophic tinnitus impact",
+    "Validation publication",
+    "Link only unless permission confirmed.",
+    "thi_pub"
+  ],
+  [
+    "TFI",
+    "Tinnitus Functional Index",
+    "Tinnitus severity and treatment response",
+    "Tinnitus functional impact",
+    "OHSU/MAPI source",
+    "Link only/license review required.",
+    "tfi"
+  ],
+  [
+    "Hyperacusis Questionnaire",
+    "Hyperacusis impact",
+    "Sound tolerance clinics",
+    "Reduced sound tolerance",
+    "Source or validation publication",
+    "Link only, verify permissions.",
+    "nice_tinnitus"
+  ],
+  [
+    "Misophonia assessment tools",
+    "Misophonia impact screening",
+    "Sound sensitivity and interdisciplinary clinics",
+    "Trigger severity and functional effect",
+    "Current literature and clinic policy",
+    "Link only or use original non-diagnostic clinic screener.",
+    "nice_tinnitus"
+  ],
+  [
+    "DHI",
+    "Dizziness Handicap Inventory",
+    "Vestibular clinics",
+    "Dizziness-related handicap",
+    "Validation publication",
+    "Link only unless permitted.",
+    "dhi_pub"
+  ],
+  [
+    "ABC Scale",
+    "Activities-specific Balance Confidence Scale",
+    "Vestibular, fall risk, older adults",
+    "Balance confidence",
+    "Validation publication",
+    "Link only unless permitted.",
+    "abc_pub"
+  ],
+  [
+    "FGA",
+    "Functional Gait Assessment",
+    "Vestibular rehab and fall risk",
+    "Dynamic gait",
+    "Validation publication",
+    "Link only unless permitted.",
+    "fga_pub"
+  ],
+  [
+    "VAP",
+    "Vestibular Activities and Participation measure",
+    "Vestibular participation",
+    "Activity and participation restrictions",
+    "Validation publication",
+    "Link only unless permitted.",
+    "vap_pub"
+  ],
+  [
+    "DVA",
+    "Dynamic Visual Acuity",
+    "Vestibular function",
+    "Gaze stability",
+    "Clinic protocol source",
+    "Use clinic protocol if validated and permitted.",
+    "aao_bppv"
+  ],
+  [
+    "HIT-6",
+    "Headache Impact Test",
+    "Vestibular migraine referral support",
+    "Headache impact",
+    "Official source",
+    "Link only/license may apply.",
+    "vm_baraney"
+  ],
+  [
+    "LittlEARS",
+    "LittlEARS Auditory Questionnaire",
+    "Infants and toddlers",
+    "Early auditory behavior",
+    "Official tool source",
+    "Link only or official app/source.",
+    "littl_ears"
+  ],
+  [
+    "PEACH",
+    "Parents Evaluation of Aural/Oral Performance of Children",
+    "Pediatric amplification",
+    "Parent-reported listening performance",
+    "Validation publication",
+    "Link only unless permitted.",
+    "peach_pub"
+  ],
+  [
+    "TEACH",
+    "Teachers Evaluation of Aural/Oral Performance of Children",
+    "Educational audiology",
+    "Teacher-reported listening performance",
+    "Validation publication",
+    "Link only unless permitted.",
+    "teach_pub"
+  ],
+  [
+    "IT-MAIS",
+    "Infant-Toddler Meaningful Auditory Integration Scale",
+    "Infants/toddlers with hearing technology",
+    "Meaningful auditory behavior",
+    "Official or publication source",
+    "Link only unless permitted.",
+    "jcih_2019"
+  ],
+  [
+    "MAIS",
+    "Meaningful Auditory Integration Scale",
+    "Children with hearing technology",
+    "Auditory integration",
+    "Official or publication source",
+    "Link only unless permitted.",
+    "jcih_2019"
+  ],
+  [
+    "MUSS",
+    "Meaningful Use of Speech Scale",
+    "Pediatric CI/HA",
+    "Spoken communication use",
+    "Official or publication source",
+    "Link only unless permitted.",
+    "jcih_2019"
+  ],
+  [
+    "CHILD",
+    "Children Home Inventory for Listening Difficulties",
+    "Home and school listening",
+    "Listening difficulty and accommodations",
+    "Official source",
+    "Link only unless permitted.",
+    "life_r"
+  ],
+  [
+    "LIFE-R",
+    "Listening Inventory for Education revised",
+    "Educational audiology",
+    "Classroom listening and self-advocacy",
+    "Success for Kids with Hearing Loss",
+    "Link to source, verify permissions.",
+    "life_r"
+  ],
+  [
+    "SIFTER",
+    "Screening Instrument For Targeting Educational Risk",
+    "Educational audiology",
+    "Educational risk and classroom function",
+    "Official/source page",
+    "Link only unless permitted.",
+    "remote_mic"
+  ],
+  [
+    "CHAPS",
+    "Children Auditory Performance Scale",
+    "CAPD and educational listening",
+    "Auditory behavior screening",
+    "Official/source page",
+    "Link only unless permitted.",
+    "asha_capd"
+  ],
+  [
+    "SCAN-3",
+    "SCAN auditory processing screening/test",
+    "CAPD clinics",
+    "Auditory processing performance",
+    "Commercial source",
+    "Commercial/link only.",
+    "asha_capd"
+  ],
+  [
+    "GIN",
+    "Gaps-In-Noise Test",
+    "CAPD clinics",
+    "Temporal resolution",
+    "Commercial/source page",
+    "Commercial/link only.",
+    "asha_capd"
+  ],
+  [
+    "MLD",
+    "Masking Level Difference",
+    "CAPD clinics",
+    "Binaural interaction",
+    "Clinic/test source",
+    "Use only with authorized materials.",
+    "asha_capd"
+  ],
+  [
+    "TEN Test",
+    "Threshold Equalizing Noise Test",
+    "Dead-region consideration",
+    "Cochlear dead region screen",
+    "Commercial/source page",
+    "Commercial/link only.",
+    "asha_ha"
+  ],
+  [
+    "Hearing protection fit check",
+    "Clinic-created fit training checklist",
+    "Occupational, musicians, industry",
+    "Insertion and attenuation counseling",
+    "Original tool",
+    "Host original version.",
+    "niosh_noise"
+  ],
+  [
+    "Noise exposure diary",
+    "Clinic-created noise exposure tracker",
+    "Occupational, musicians, engineers, students",
+    "Exposure awareness and counseling",
+    "Original tool",
+    "Host original version.",
+    "cdc_nihl"
+  ],
+  [
+    "Music listening goals form",
+    "Clinic-created music counseling form",
+    "Musicians, engineers, CI/HA music concerns",
+    "Patient-specific music needs",
+    "Original tool",
+    "Host original version.",
+    "cdc_nihl"
+  ],
+  [
+    "Workplace communication checklist",
+    "Clinic-created workplace accommodation form",
+    "Industrial and employment settings",
+    "Communication barriers and supports",
+    "Original tool",
+    "Host original version.",
+    "osha_noise"
+  ],
+  [
+    "Device troubleshooting log",
+    "Clinic-created HA/CI/BCD log",
+    "All device users",
+    "Complaint pattern tracking",
+    "Original tool",
+    "Host original version.",
+    "asha_ha"
+  ],
+  [
+    "Pediatric wear-time tracker",
+    "Clinic-created family log",
+    "Pediatric amplification",
+    "Use patterns and barriers",
+    "Original tool",
+    "Host original version.",
+    "aaa_ped_amp"
+  ],
+  [
+    "Bimodal balance log",
+    "Clinic-created CI plus HA log",
+    "Bimodal users",
+    "Ear balance and environments",
+    "Original tool",
+    "Host original version.",
+    "acia_adult_ci"
+  ],
+  [
+    "Fall and dizziness diary",
+    "Clinic-created dizziness tracker",
+    "Vestibular clinics",
+    "Symptom timing, triggers, falls",
+    "Original tool",
+    "Host original version.",
+    "aao_bppv"
+  ],
+  [
+    "Tinnitus sleep diary",
+    "Clinic-created tinnitus sleep tracker",
+    "Tinnitus patients",
+    "Sleep and sound-enrichment pattern",
+    "Original tool",
+    "Host original version.",
+    "nice_tinnitus"
+  ],
+  [
+    "SADL",
+    "Satisfaction with Amplification in Daily Life",
+    "Adult hearing aid patients",
+    "Hearing aid satisfaction across service, cost, positive effect, and personal image domains",
+    "Cox and Alexander",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "sadl_pub"
+  ],
+  [
+    "GHABP",
+    "Glasgow Hearing Aid Benefit Profile",
+    "Adult hearing aid services and public health clinics",
+    "Initial disability, handicap, hearing aid use, benefit, residual disability, and satisfaction",
+    "Gatehouse",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "ghabp_pub"
+  ],
+  [
+    "HAPI",
+    "Hearing Aid Performance Inventory",
+    "Adult hearing aid users",
+    "Self-reported hearing aid performance and benefit situations",
+    "Schum",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "hapi_pub"
+  ],
+  [
+    "PHAP",
+    "Profile of Hearing Aid Performance",
+    "Adult hearing aid outcome assessment",
+    "Perceived unaided and aided performance in daily listening",
+    "Hearing Aid Research Laboratory, University of Memphis",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "aphab"
+  ],
+  [
+    "SAC",
+    "Self-Assessment of Communication",
+    "Adults with hearing loss",
+    "Functional communication difficulty and counseling needs",
+    "American Speech-Language-Hearing Association",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "asha_aural_rehab"
+  ],
+  [
+    "SOAC",
+    "Significant Other Assessment of Communication",
+    "Family/caregiver perspective",
+    "Communication impact reported by a communication partner",
+    "American Speech-Language-Hearing Association",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "asha_aural_rehab"
+  ],
+  [
+    "CST",
+    "Connected Speech Test",
+    "Adult HA and CI speech understanding",
+    "Connected speech recognition in quiet or noise",
+    "Etymotic Research",
+    "Commercial/link only. Do not host sentence lists or audio.",
+    "quick_sin"
+  ],
+  [
+    "HINT",
+    "Hearing in Noise Test",
+    "HA, CI, and research contexts",
+    "Sentence recognition in quiet and noise",
+    "Etymotic Research",
+    "Commercial/link only. Do not host materials.",
+    "quick_sin"
+  ],
+  [
+    "MSTB",
+    "Minimum Speech Test Battery",
+    "Adult CI evaluation and outcomes",
+    "Standardized speech perception battery context",
+    "American Cochlear Implant Alliance",
+    "Link to professional source. Do not host test materials.",
+    "msts_source"
+  ],
+  [
+    "Pediatric AzBio",
+    "Pediatric AzBio sentence lists",
+    "Pediatric HA and CI speech perception",
+    "Pediatric sentence understanding",
+    "Spahr et al.",
+    "Commercial/test material link only. Do not host lists or audio.",
+    "peds_azbio"
+  ],
+  [
+    "BabyBio",
+    "BabyBio sentence test",
+    "Young pediatric CI/HA patients when developmentally appropriate",
+    "Early pediatric sentence perception",
+    "Spahr et al.",
+    "Commercial/test material link only. Verify source and permissions.",
+    "peds_azbio"
+  ],
+  [
+    "PBK",
+    "Phonetically Balanced Kindergarten word lists",
+    "Pediatric speech perception",
+    "Word recognition for children",
+    "Auditec",
+    "Commercial/source link only. Do not host lists/audio.",
+    "cnc"
+  ],
+  [
+    "LNT",
+    "Lexical Neighborhood Test",
+    "Pediatric speech perception",
+    "Open-set word recognition",
+    "Auditec",
+    "Commercial/source link only. Do not host lists/audio.",
+    "cnc"
+  ],
+  [
+    "MLNT",
+    "Multisyllabic Lexical Neighborhood Test",
+    "Pediatric speech perception",
+    "Multisyllabic word recognition",
+    "Auditec",
+    "Commercial/source link only. Do not host lists/audio.",
+    "cnc"
+  ],
+  [
+    "ESP",
+    "Early Speech Perception Test",
+    "Pediatric CI candidacy and outcomes",
+    "Speech pattern and early word perception",
+    "Warner-Czyz et al.",
+    "Link only. Verify source and permissions.",
+    "acia_ped_ci"
+  ],
+  [
+    "CAP",
+    "Categories of Auditory Performance",
+    "Pediatric CI and severe hearing loss",
+    "Global auditory performance category",
+    "Albalawi et al.",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "cap_sir_pub"
+  ],
+  [
+    "SIR",
+    "Speech Intelligibility Rating",
+    "Pediatric CI and speech development",
+    "Functional speech intelligibility rating",
+    "Albalawi et al.",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "cap_sir_pub"
+  ],
+  [
+    "NCIQ",
+    "Nijmegen Cochlear Implant Questionnaire",
+    "Adult CI quality of life",
+    "CI-related quality of life",
+    "Medical University of South Carolina",
+    "Link to source or license. Do not host without permission.",
+    "ciqol"
+  ],
+  [
+    "CIQOL-10 Global",
+    "Cochlear Implant Quality of Life 10 Global",
+    "Adult CI users",
+    "Global CI-related quality of life",
+    "Medical University of South Carolina",
+    "Use official MUSC source and terms.",
+    "ciqol"
+  ],
+  [
+    "CIQOL-35 Profile",
+    "Cochlear Implant Quality of Life 35 Profile",
+    "Adult CI users",
+    "CI-related quality of life profile",
+    "Medical University of South Carolina",
+    "Use official MUSC source and terms.",
+    "ciqol"
+  ],
+  [
+    "HEAR-QL 26",
+    "Hearing Environments and Reflection on Quality of Life, child version",
+    "Children with hearing loss",
+    "Hearing-related quality of life",
+    "Umansky et al.",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "hearql_child"
+  ],
+  [
+    "HEAR-QL 28",
+    "Hearing Environments and Reflection on Quality of Life, adolescent version",
+    "Adolescents with hearing loss",
+    "Hearing-related quality of life",
+    "Rachakonda et al.",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "hearql_adol"
+  ],
+  [
+    "PedsQL",
+    "Pediatric Quality of Life Inventory",
+    "Children with medical/developmental concerns",
+    "General pediatric quality of life",
+    "Umansky et al.",
+    "Link to official PedsQL source or license. Do not host forms.",
+    "hearql_child"
+  ],
+  [
+    "ELF",
+    "Early Listening Function",
+    "Infants and toddlers",
+    "Functional listening in early childhood",
+    "American Academy of Audiology",
+    "Link only unless permission allows.",
+    "aaa_ped_amp"
+  ],
+  [
+    "FAPI",
+    "Functional Auditory Performance Indicators",
+    "Children with hearing loss",
+    "Auditory skill development and functional listening",
+    "Joint Committee on Infant Hearing",
+    "Link only unless permission allows.",
+    "jcih_2019"
+  ],
+  [
+    "LENA metrics",
+    "Language Environment Analysis metrics",
+    "Pediatric language environment and auditory access research",
+    "Adult words, conversational turns, child vocalizations when using the system",
+    "Joint Committee on Infant Hearing",
+    "Commercial/system-specific. Link only and follow vendor terms.",
+    "jcih_2019"
+  ],
+  [
+    "VSS",
+    "Vertigo Symptom Scale",
+    "Vestibular clinics",
+    "Frequency and severity of dizziness/vertigo symptoms and autonomic anxiety symptoms",
+    "Shirley Ryan AbilityLab",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "vss_sralab"
+  ],
+  [
+    "VSS-SF",
+    "Vertigo Symptom Scale short form",
+    "Vestibular clinics and research",
+    "Short-form dizziness/vertigo symptom burden",
+    "Shirley Ryan AbilityLab",
+    "Link only/license review may be needed through instrument source.",
+    "vss_sralab"
+  ],
+  [
+    "DSP",
+    "Dizziness Symptom Profile",
+    "Vestibular differential-diagnosis support",
+    "Symptom pattern supporting dizziness differential diagnosis",
+    "Jacobson et al.",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "dsp_pub"
+  ],
+  [
+    "MSQ/MST",
+    "Motion Sensitivity Quotient or Motion Sensitivity Test",
+    "Vestibular rehab and motion-provoked dizziness",
+    "Motion-provoked dizziness across position changes",
+    "Shirley Ryan AbilityLab",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "msq_sralab"
+  ],
+  [
+    "Mini-BESTest",
+    "Mini Balance Evaluation Systems Test",
+    "Vestibular rehab, fall risk, balance clinics",
+    "Dynamic balance",
+    "Shirley Ryan AbilityLab",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "minibest_sralab"
+  ],
+  [
+    "BESTest",
+    "Balance Evaluation Systems Test",
+    "Balance and fall-risk clinics",
+    "Balance systems performance",
+    "Shirley Ryan AbilityLab",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "minibest_sralab"
+  ],
+  [
+    "mCTSIB",
+    "Modified Clinical Test of Sensory Interaction on Balance",
+    "Vestibular and balance screening",
+    "Sensory use for balance",
+    "American Academy of Otolaryngology Head and Neck Surgery Foundation",
+    "Use clinic protocol and validated norms. Do not copy proprietary materials.",
+    "aao_bppv"
+  ],
+  [
+    "SOT",
+    "Sensory Organization Test",
+    "Vestibular and balance labs",
+    "Computerized dynamic posturography sensory organization",
+    "American Academy of Otolaryngology Head and Neck Surgery Foundation",
+    "Equipment-specific/proprietary. Link only and use lab protocol.",
+    "aao_bppv"
+  ],
+  [
+    "vHIT metrics",
+    "Video Head Impulse Test metrics",
+    "Vestibular labs",
+    "Semicircular canal vestibulo-ocular reflex gain and corrective saccades",
+    "American Academy of Otolaryngology Head and Neck Surgery Foundation",
+    "Equipment-specific. Do not copy proprietary manuals or normative tables.",
+    "aao_bppv"
+  ],
+  [
+    "Caloric test metrics",
+    "Bithermal caloric test outcomes",
+    "Vestibular labs",
+    "Horizontal semicircular canal function and unilateral weakness metrics",
+    "American Academy of Otolaryngology Head and Neck Surgery Foundation",
+    "Use local protocol. Do not copy proprietary forms.",
+    "aao_bppv"
+  ],
+  [
+    "cVEMP/oVEMP metrics",
+    "Cervical and ocular vestibular evoked myogenic potentials",
+    "Vestibular and otolith assessment",
+    "Saccular, utricular, and pathway function metrics depending on protocol",
+    "American Academy of Otolaryngology Head and Neck Surgery Foundation",
+    "Use local protocol and published norms. Do not copy proprietary materials.",
+    "aao_bppv"
+  ],
+  [
+    "THS",
+    "Tinnitus and Hearing Survey",
+    "Tinnitus triage",
+    "Separates tinnitus-specific concerns from hearing difficulty and sound tolerance concerns",
+    "Henry et al.",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "ths_pub"
+  ],
+  [
+    "TRQ",
+    "Tinnitus Reaction Questionnaire",
+    "Tinnitus distress",
+    "Psychological distress associated with tinnitus",
+    "Wilson et al.",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "trq_pub"
+  ],
+  [
+    "THQ",
+    "Tinnitus Handicap Questionnaire",
+    "Tinnitus functional impact",
+    "Tinnitus handicap and functional impact",
+    "Kuk et al.",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "thq_pub"
+  ],
+  [
+    "TQ",
+    "Tinnitus Questionnaire",
+    "Tinnitus clinics and research",
+    "Tinnitus distress domains",
+    "Newman et al.",
+    "Link only. Verify version and permissions.",
+    "thi_pub"
+  ],
+  [
+    "ULL/LDL measures",
+    "Uncomfortable Loudness Levels or Loudness Discomfort Levels",
+    "Hyperacusis/sound tolerance, fitting comfort",
+    "Sound tolerance levels by frequency or stimulus",
+    "National Institute for Health and Care Excellence",
+    "Clinical procedure, not a form. Use local protocol and caution.",
+    "nice_tinnitus"
+  ],
+  [
+    "A-MISO-S",
+    "Amsterdam Misophonia Scale or adapted versions",
+    "Misophonia interdisciplinary care",
+    "Misophonia symptom severity in research/clinical contexts",
+    "National Institute for Health and Care Excellence",
+    "Link only. Verify validity, version, and permission.",
+    "nice_tinnitus"
+  ],
+  [
+    "MQ",
+    "Misophonia Questionnaire",
+    "Misophonia symptom reporting",
+    "Misophonia symptom severity and triggers",
+    "National Institute for Health and Care Excellence",
+    "Link only. Verify source and permission.",
+    "nice_tinnitus"
+  ],
+  [
+    "APDQ",
+    "Auditory Processing Domains Questionnaire",
+    "CAPD screening and educational listening",
+    "Auditory processing difficulty domains",
+    "O Hara and Mealings",
+    "Link only unless permission allows. Do not host restricted forms, manuals, audio, or scoring sheets.",
+    "apdq_pub"
+  ],
+  [
+    "Fisher Checklist",
+    "Fisher Auditory Problems Checklist",
+    "Educational listening and CAPD screening",
+    "Auditory behavior risk indicators",
+    "American Speech-Language-Hearing Association",
+    "Link only. Verify permission.",
+    "asha_capd"
+  ],
+  [
+    "SSW",
+    "Staggered Spondaic Word Test",
+    "CAPD test battery",
+    "Dichotic listening and central auditory function",
+    "American Speech-Language-Hearing Association",
+    "Commercial/source link only. Do not host test materials.",
+    "asha_capd"
+  ],
+  [
+    "Dichotic Digits",
+    "Dichotic Digits Test",
+    "CAPD test battery",
+    "Binaural integration and separation",
+    "American Speech-Language-Hearing Association",
+    "Use authorized materials only.",
+    "asha_capd"
+  ],
+  [
+    "Frequency Pattern Test",
+    "Frequency pattern sequence test",
+    "CAPD test battery",
+    "Temporal patterning",
+    "American Speech-Language-Hearing Association",
+    "Use authorized materials only.",
+    "asha_capd"
+  ],
+  [
+    "Duration Pattern Test",
+    "Duration pattern sequence test",
+    "CAPD test battery",
+    "Temporal patterning",
+    "American Speech-Language-Hearing Association",
+    "Use authorized materials only.",
+    "asha_capd"
+  ],
+  [
+    "LiSN-S",
+    "Listening in Spatialized Noise Sentences",
+    "CAPD and speech-in-noise assessment",
+    "Spatial listening and speech-in-noise performance",
+    "American Speech-Language-Hearing Association",
+    "Commercial/source link only. Do not host materials.",
+    "asha_capd"
+  ],
+  [
+    "Standard Threshold Shift tracking",
+    "OSHA standard threshold shift monitoring",
+    "Occupational hearing conservation",
+    "Audiometric change monitoring for workers",
+    "Occupational Safety and Health Administration",
+    "Use regulatory protocol and employer program. Do not replace compliance review.",
+    "osha_sts"
+  ],
+  [
+    "TWA/dose record",
+    "Time-weighted average and noise dose log",
+    "Industrial audiology",
+    "Noise exposure documentation",
+    "National Institute for Occupational Safety and Health",
+    "Original tracker may be hosted. Use calibrated equipment and employer policy.",
+    "niosh_noise"
+  ],
+  [
+    "Musician sound exposure log",
+    "Clinic-created sound exposure and rehearsal tracker",
+    "Musicians, audio engineers, DJs, sound crews",
+    "Sound level, exposure time, breaks, symptoms, hearing protection use",
+    "Centers for Disease Control and Prevention",
+    "Original tracker may be hosted.",
+    "cdc_nihl"
+  ],
+  [
+    "In-ear monitor safety checklist",
+    "Clinic-created IEM counseling checklist",
+    "Musicians and audio professionals",
+    "Monitor level, fit, isolation, duration, and symptoms",
+    "Centers for Disease Control and Prevention",
+    "Original checklist may be hosted with public health citations.",
+    "cdc_nihl"
+  ],
+  [
+    "Listening fatigue scale, clinic-created",
+    "Clinic-created listening fatigue rating",
+    "HA, CI, CAPD, educational, workplace",
+    "Fatigue pattern and listening demand",
+    "American Speech-Language-Hearing Association",
+    "Original tracker may be hosted. Not a validated diagnostic instrument.",
+    "asha_aural_rehab"
+  ]
+]

@@ -1,0 +1,699 @@
+[
+  {
+    "title": "First-Time Hearing Aid Expectations",
+    "category": "Hearing Aid Counseling",
+    "audience": "Adults and families",
+    "population": "Adults using prescription or OTC hearing aids when clinically appropriate",
+    "purpose": "Set realistic expectations and reduce avoidable return visits.",
+    "slug": "first-time-hearing-aid-expectations",
+    "pdf": "downloads/handouts/first-time-hearing-aid-expectations.pdf",
+    "sources": [
+      "asha_ha",
+      "apso_s21",
+      "nice_ng98",
+      "fda_ha",
+      "rem_review"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Hearing Aid Daily Care and Cleaning",
+    "category": "Hearing Aid Counseling",
+    "audience": "Adults, caregivers, students",
+    "population": "Hearing aid users across adult clinical settings",
+    "purpose": "Support device reliability through safe daily care.",
+    "slug": "hearing-aid-daily-care-and-cleaning",
+    "pdf": "downloads/handouts/hearing-aid-daily-care-and-cleaning.pdf",
+    "sources": [
+      "asha_ha",
+      "apso_s21",
+      "nice_ng98",
+      "fda_ha",
+      "rem_review"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Understanding Sensorineural Hearing Loss",
+    "category": "Hearing Loss Counseling",
+    "audience": "Adults, families, students",
+    "population": "Patients with cochlear or neural hearing loss",
+    "purpose": "Explain why loudness and clarity are different clinical problems.",
+    "slug": "understanding-sensorineural-hearing-loss",
+    "pdf": "downloads/handouts/understanding-sensorineural-hearing-loss.pdf",
+    "sources": [
+      "asha_ha",
+      "asha_aural_rehab",
+      "nice_ng98",
+      "who_wrh"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Conductive, Sensorineural, and Mixed Hearing Loss",
+    "category": "Hearing Loss Counseling",
+    "audience": "Adults, parents, trainees",
+    "population": "Patients reviewing audiologic results",
+    "purpose": "Give a simple explanation of hearing-loss type.",
+    "slug": "conductive-sensorineural-and-mixed-hearing-loss",
+    "pdf": "downloads/handouts/conductive-sensorineural-and-mixed-hearing-loss.pdf",
+    "sources": [
+      "nice_ng98",
+      "fda_ha",
+      "who_wrh"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Why Speech Can Be Unclear Even When Sound Is Loud",
+    "category": "Communication Counseling",
+    "audience": "Adults and families",
+    "population": "Patients who say they hear but do not understand",
+    "purpose": "Explain clarity, listening effort, and expectations.",
+    "slug": "why-speech-can-be-unclear-even-when-sound-is-loud",
+    "pdf": "downloads/handouts/why-speech-can-be-unclear-even-when-sound-is-loud.pdf",
+    "sources": [
+      "asha_ha",
+      "asha_aural_rehab",
+      "nice_ng98",
+      "quick_sin",
+      "fda_ha"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Communication Strategies for Families",
+    "category": "Communication Counseling",
+    "audience": "Patients, family members, caregivers",
+    "population": "Adults or children with communication difficulty",
+    "purpose": "Give family members specific behaviors that improve communication.",
+    "slug": "communication-strategies-for-families",
+    "pdf": "downloads/handouts/communication-strategies-for-families.pdf",
+    "sources": [
+      "asha_aural_rehab",
+      "nice_ng98",
+      "remote_mic",
+      "who_wrh"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Restaurant and Group Conversation Tips",
+    "category": "Communication Counseling",
+    "audience": "Adults and families",
+    "population": "Patients with speech-in-noise difficulty",
+    "purpose": "Provide practical strategies for noisy social settings.",
+    "slug": "restaurant-and-group-conversation-tips",
+    "pdf": "downloads/handouts/restaurant-and-group-conversation-tips.pdf",
+    "sources": [
+      "asha_ha",
+      "asha_aural_rehab",
+      "nice_ng98",
+      "remote_mic",
+      "quick_sin"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Remote Microphones and Classroom Listening",
+    "category": "Assistive Technology",
+    "audience": "Educational audiologists, pediatric clinicians, adult clinicians",
+    "population": "Children, students, and adults needing better signal-to-noise ratio",
+    "purpose": "Explain when remote microphone systems are clinically useful.",
+    "slug": "remote-microphones-and-classroom-listening",
+    "pdf": "downloads/handouts/remote-microphones-and-classroom-listening.pdf",
+    "sources": [
+      "remote_mic",
+      "asha_capd",
+      "asha_ha",
+      "nice_ng98"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Cochlear Implant Activation Expectations",
+    "category": "Cochlear Implant Counseling",
+    "audience": "CI audiologists and counseling clinicians",
+    "population": "New cochlear implant recipients and families",
+    "purpose": "Prepare patients for early sound quality and follow-up needs.",
+    "slug": "cochlear-implant-activation-expectations",
+    "pdf": "downloads/handouts/cochlear-implant-activation-expectations.pdf",
+    "sources": [
+      "nice_ci",
+      "acia_ped_ci",
+      "acia_adult_ci"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Bimodal Listening: Cochlear Implant Plus Hearing Aid",
+    "category": "Cochlear Implant Counseling",
+    "audience": "CI and hearing aid clinicians",
+    "population": "Bimodal CI plus contralateral HA users",
+    "purpose": "Explain why balance and integration need ongoing care.",
+    "slug": "bimodal-listening-cochlear-implant-plus-hearing-aid",
+    "pdf": "downloads/handouts/bimodal-listening-cochlear-implant-plus-hearing-aid.pdf",
+    "sources": [
+      "acia_adult_ci",
+      "acia_ped_ci",
+      "asha_ha",
+      "apso_s21",
+      "fda_ha"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Bone-Conduction and Bone-Anchored Device Basics",
+    "category": "Bone-Conduction Devices",
+    "audience": "Audiologists, trainees, families",
+    "population": "Conductive, mixed, SSD, atresia, and selected medical cases",
+    "purpose": "Provide neutral counseling without manufacturer instructions.",
+    "slug": "bone-conduction-and-bone-anchored-device-basics",
+    "pdf": "downloads/handouts/bone-conduction-and-bone-anchored-device-basics.pdf",
+    "sources": [
+      "nice_ng98",
+      "jcih_2019",
+      "fda_ha",
+      "who_wrh"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Tinnitus Counseling and Red Flags",
+    "category": "Tinnitus",
+    "audience": "Audiologists, ENT partners, trainees",
+    "population": "Adults or teens reporting tinnitus",
+    "purpose": "Provide a safe first counseling handout.",
+    "slug": "tinnitus-counseling-and-red-flags",
+    "pdf": "downloads/handouts/tinnitus-counseling-and-red-flags.pdf",
+    "sources": [
+      "nice_tinnitus",
+      "aao_tinnitus",
+      "ncrar_ptm"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Hyperacusis: Sound Sensitivity Counseling",
+    "category": "Sound Sensitivity",
+    "audience": "Audiologists and tinnitus clinicians",
+    "population": "Patients reporting reduced sound tolerance",
+    "purpose": "Give cautious counseling about sound sensitivity.",
+    "slug": "hyperacusis-sound-sensitivity-counseling",
+    "pdf": "downloads/handouts/hyperacusis-sound-sensitivity-counseling.pdf",
+    "sources": [
+      "nice_tinnitus",
+      "aao_tinnitus",
+      "ncrar_ptm",
+      "fda_ha"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Misophonia: Sound Trigger Counseling",
+    "category": "Sound Sensitivity",
+    "audience": "Audiologists and interdisciplinary teams",
+    "population": "Patients with strong emotional reactions to specific sounds",
+    "purpose": "Clarify misophonia versus loudness intolerance.",
+    "slug": "misophonia-sound-trigger-counseling",
+    "pdf": "downloads/handouts/misophonia-sound-trigger-counseling.pdf",
+    "sources": [
+      "nice_tinnitus",
+      "ncrar_ptm"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "CAPD and Listening Difficulty",
+    "category": "CAPD",
+    "audience": "Audiologists, educational teams, families",
+    "population": "Children age 7 and older when appropriate and selected adults",
+    "purpose": "Explain auditory processing evaluation and intervention boundaries.",
+    "slug": "capd-and-listening-difficulty",
+    "pdf": "downloads/handouts/capd-and-listening-difficulty.pdf",
+    "sources": [
+      "asha_capd",
+      "aaa_capd",
+      "remote_mic"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Safe Listening and Noise Protection",
+    "category": "Noise and Occupational Audiology",
+    "audience": "Audiologists, students, workers, musicians",
+    "population": "Patients exposed to recreational or occupational noise",
+    "purpose": "Provide concise prevention counseling.",
+    "slug": "safe-listening-and-noise-protection",
+    "pdf": "downloads/handouts/safe-listening-and-noise-protection.pdf",
+    "sources": [
+      "cdc_nihl",
+      "niosh_noise",
+      "osha_noise",
+      "who_wrh"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Musician Earplugs and Sound Quality",
+    "category": "Musician and Audio Professional Audiology",
+    "audience": "Audiologists, musicians, engineers, sound professionals",
+    "population": "Music and audio workers needing protection without unacceptable sound distortion",
+    "purpose": "Explain why filtered protection is different from foam plugs.",
+    "slug": "musician-earplugs-and-sound-quality",
+    "pdf": "downloads/handouts/musician-earplugs-and-sound-quality.pdf",
+    "sources": [
+      "cdc_nihl",
+      "niosh_noise",
+      "osha_noise",
+      "who_wrh"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Pediatric Hearing Aid Parent Counseling",
+    "category": "Pediatric Audiology",
+    "audience": "Pediatric audiologists, parents, caregivers",
+    "population": "Infants and children using hearing aids",
+    "purpose": "Give parents a clear daily-use roadmap.",
+    "slug": "pediatric-hearing-aid-parent-counseling",
+    "pdf": "downloads/handouts/pediatric-hearing-aid-parent-counseling.pdf",
+    "sources": [
+      "jcih_2019",
+      "aaa_ped_amp",
+      "aaa_ped_assess"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Ling 6 Sound Check for Families and Schools",
+    "category": "Pediatric Audiology",
+    "audience": "Pediatric clinicians, families, teachers",
+    "population": "Children using hearing aids, CIs, bone-conduction devices, or remote microphones",
+    "purpose": "Provide a simple listening access check.",
+    "slug": "ling-6-sound-check-for-families-and-schools",
+    "pdf": "downloads/handouts/ling-6-sound-check-for-families-and-schools.pdf",
+    "sources": [
+      "jcih_2019",
+      "aaa_ped_amp",
+      "aaa_ped_assess"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Classroom Accommodations for Hearing Loss",
+    "category": "Educational Audiology",
+    "audience": "Educational audiologists, school teams, pediatric clinicians",
+    "population": "Students with hearing loss or listening difficulty",
+    "purpose": "Support practical school access planning.",
+    "slug": "classroom-accommodations-for-hearing-loss",
+    "pdf": "downloads/handouts/classroom-accommodations-for-hearing-loss.pdf",
+    "sources": [
+      "remote_mic",
+      "asha_capd",
+      "jcih_2019",
+      "aaa_ped_amp"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "BPPV Counseling: Positional Vertigo",
+    "category": "Vestibular Audiology",
+    "audience": "Vestibular audiologists, ENT teams, patients",
+    "population": "Adults with suspected or diagnosed BPPV",
+    "purpose": "Explain BPPV care and safety.",
+    "slug": "bppv-counseling-positional-vertigo",
+    "pdf": "downloads/handouts/bppv-counseling-positional-vertigo.pdf",
+    "sources": [
+      "aao_bppv",
+      "bppv_pubmed"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Vestibular Migraine: Counseling Overview",
+    "category": "Vestibular Audiology",
+    "audience": "Vestibular audiologists, ENT, neurology partners",
+    "population": "Patients with recurrent vertigo/dizziness and migraine features",
+    "purpose": "Provide neutral education and referral guidance.",
+    "slug": "vestibular-migraine-counseling-overview",
+    "pdf": "downloads/handouts/vestibular-migraine-counseling-overview.pdf",
+    "sources": [
+      "vm_baraney",
+      "meniere_aao",
+      "aao_bppv"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Meniere Disease: Counseling Overview",
+    "category": "Vestibular Audiology",
+    "audience": "Vestibular audiologists, ENT teams",
+    "population": "Patients with episodic vertigo, fluctuating hearing, tinnitus, or aural fullness",
+    "purpose": "Provide a general information sheet without replacing ENT care.",
+    "slug": "meniere-disease-counseling-overview",
+    "pdf": "downloads/handouts/meniere-disease-counseling-overview.pdf",
+    "sources": [
+      "meniere_aao",
+      "nice_tinnitus",
+      "fda_ha"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Vestibular Rehabilitation: What Patients Should Know",
+    "category": "Vestibular Audiology",
+    "audience": "Vestibular audiologists, PT partners, patients",
+    "population": "Patients referred for balance or dizziness rehabilitation",
+    "purpose": "Explain rehabilitation goals and expectations.",
+    "slug": "vestibular-rehabilitation-what-patients-should-know",
+    "pdf": "downloads/handouts/vestibular-rehabilitation-what-patients-should-know.pdf",
+    "sources": [
+      "aao_bppv",
+      "pppd_baraney",
+      "dhi_pub",
+      "abc_pub",
+      "fga_pub",
+      "vap_pub"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "ABR Testing Explained",
+    "category": "Electrophysiology",
+    "audience": "Pediatric and electrophysiology clinicians",
+    "population": "Parents, caregivers, adult patients",
+    "purpose": "Explain auditory brainstem response testing.",
+    "slug": "abr-testing-explained",
+    "pdf": "downloads/handouts/abr-testing-explained.pdf",
+    "sources": [
+      "aaa_ped_assess",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "OAE and Tympanometry Results Explained",
+    "category": "Electrophysiology",
+    "audience": "Diagnostic audiologists, pediatric clinicians",
+    "population": "Patients and families reviewing test results",
+    "purpose": "Explain common objective tests in simple language.",
+    "slug": "oae-and-tympanometry-results-explained",
+    "pdf": "downloads/handouts/oae-and-tympanometry-results-explained.pdf",
+    "sources": [
+      "aaa_ped_assess",
+      "jcih_2019",
+      "nice_ng98",
+      "fda_ha"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Sudden Hearing Loss: Why It Is Urgent",
+    "category": "Medical Referral Counseling",
+    "audience": "Audiologists, front desk triage, trainees",
+    "population": "Patients reporting sudden or rapidly progressive hearing change",
+    "purpose": "Provide clear referral language.",
+    "slug": "sudden-hearing-loss-why-it-is-urgent",
+    "pdf": "downloads/handouts/sudden-hearing-loss-why-it-is-urgent.pdf",
+    "sources": [
+      "fda_ha",
+      "nice_ng98"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Ototoxicity Awareness for Patients",
+    "category": "Medical Referral Counseling",
+    "audience": "Audiologists, oncology teams, hospitals",
+    "population": "Patients receiving ototoxic medications or with exposure concerns",
+    "purpose": "Support monitoring and communication.",
+    "slug": "ototoxicity-awareness-for-patients",
+    "pdf": "downloads/handouts/ototoxicity-awareness-for-patients.pdf",
+    "sources": [
+      "who_wrh",
+      "cdc_nihl",
+      "fda_ha"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Hearing Loss, Cognition, and Counseling Without Overclaiming",
+    "category": "Research Counseling",
+    "audience": "Audiologists, adult patients, families",
+    "population": "Adults concerned about cognitive health and hearing loss",
+    "purpose": "Support cautious counseling about association and intervention.",
+    "slug": "hearing-loss-cognition-and-counseling-without-overclaiming",
+    "pdf": "downloads/handouts/hearing-loss-cognition-and-counseling-without-overclaiming.pdf",
+    "sources": [
+      "nice_ng98",
+      "achieve",
+      "lancet_dementia",
+      "asha_ha"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Pendred Syndrome",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Pendred Syndrome.",
+    "slug": "pendred-syndrome",
+    "pdf": "downloads/handouts/pendred-syndrome.pdf",
+    "sources": [
+      "nidcd_pendred",
+      "nidcd_eva",
+      "gene_overview",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Enlarged Vestibular Aqueduct",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Enlarged Vestibular Aqueduct.",
+    "slug": "enlarged-vestibular-aqueduct",
+    "pdf": "downloads/handouts/enlarged-vestibular-aqueduct.pdf",
+    "sources": [
+      "nidcd_eva",
+      "nidcd_pendred",
+      "gene_overview",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Usher Syndrome",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Usher Syndrome.",
+    "slug": "usher-syndrome",
+    "pdf": "downloads/handouts/usher-syndrome.pdf",
+    "sources": [
+      "gene_overview",
+      "gene_gr",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Waardenburg Syndrome",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Waardenburg Syndrome.",
+    "slug": "waardenburg-syndrome",
+    "pdf": "downloads/handouts/waardenburg-syndrome.pdf",
+    "sources": [
+      "gene_overview",
+      "gene_gr",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Branchio-Oto-Renal Spectrum Disorder",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Branchio-Oto-Renal Spectrum Disorder.",
+    "slug": "branchio-oto-renal-spectrum-disorder",
+    "pdf": "downloads/handouts/branchio-oto-renal-spectrum-disorder.pdf",
+    "sources": [
+      "gene_overview",
+      "gene_gr",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "CHD7 Disorder and CHARGE Features",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for CHD7 Disorder and CHARGE Features.",
+    "slug": "chd7-disorder-and-charge-features",
+    "pdf": "downloads/handouts/chd7-disorder-and-charge-features.pdf",
+    "sources": [
+      "gene_overview",
+      "gene_gr",
+      "jcih_2019",
+      "aaa_ped_amp"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Alport Syndrome",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Alport Syndrome.",
+    "slug": "alport-syndrome",
+    "pdf": "downloads/handouts/alport-syndrome.pdf",
+    "sources": [
+      "gene_overview",
+      "gene_gr",
+      "who_wrh"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Jervell and Lange-Nielsen Syndrome",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Jervell and Lange-Nielsen Syndrome.",
+    "slug": "jervell-and-lange-nielsen-syndrome",
+    "pdf": "downloads/handouts/jervell-and-lange-nielsen-syndrome.pdf",
+    "sources": [
+      "gene_overview",
+      "gene_gr",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Stickler Syndrome",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Stickler Syndrome.",
+    "slug": "stickler-syndrome",
+    "pdf": "downloads/handouts/stickler-syndrome.pdf",
+    "sources": [
+      "gene_overview",
+      "gene_gr",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "NF2-Related Schwannomatosis",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for NF2-Related Schwannomatosis.",
+    "slug": "nf2-related-schwannomatosis",
+    "pdf": "downloads/handouts/nf2-related-schwannomatosis.pdf",
+    "sources": [
+      "gene_overview",
+      "gene_gr",
+      "fda_ha"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "OTOF-Related Auditory Neuropathy",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for OTOF-Related Auditory Neuropathy.",
+    "slug": "otof-related-auditory-neuropathy",
+    "pdf": "downloads/handouts/otof-related-auditory-neuropathy.pdf",
+    "sources": [
+      "otof_gr",
+      "gene_overview",
+      "jcih_2019",
+      "acia_ped_ci"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Congenital Cytomegalovirus and Hearing Loss",
+    "category": "Genetics and Syndromes",
+    "audience": "Audiologists, families, students",
+    "population": "Patients with diagnosed or suspected genetic, syndromic, or congenital hearing and balance concerns",
+    "purpose": "Provide a concise patient education handout for Congenital Cytomegalovirus and Hearing Loss.",
+    "slug": "congenital-cytomegalovirus-and-hearing-loss",
+    "pdf": "downloads/handouts/congenital-cytomegalovirus-and-hearing-loss.pdf",
+    "sources": [
+      "cdc_cmv",
+      "aaa_cmv",
+      "cmv_aao",
+      "jcih_2019"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  },
+  {
+    "title": "Audiology Student Rotation Readiness Checklist",
+    "category": "Preceptor and Student Hub",
+    "audience": "Students, externs, preceptors",
+    "population": "AuD students entering diagnostic, hearing aid, pediatric, CI, vestibular, or electrophysiology rotations",
+    "purpose": "Improve readiness and clinic efficiency.",
+    "slug": "audiology-student-rotation-readiness-checklist",
+    "pdf": "downloads/handouts/audiology-student-rotation-readiness-checklist.pdf",
+    "sources": [
+      "asha_ha",
+      "apso_s21",
+      "jcih_2019",
+      "aaa_ped_assess"
+    ],
+    "permission": "Host original handout. Linked citations only. No restricted tools copied.",
+    "lastReviewed": "May 11, 2026"
+  }
+]

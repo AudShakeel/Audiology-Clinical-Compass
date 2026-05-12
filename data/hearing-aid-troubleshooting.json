@@ -1,0 +1,145 @@
+[
+  [
+    "Everything is too loud",
+    "Overall gain or MPO too high, acclimatization difficulty, hyperacusis, incorrect fitting formula, poor loudness balancing, recruitment, input-specific mismatch.",
+    "Check otoscopy, device function, datalogging, real-ear output for soft/average/loud/MPO, loudness discomfort, recent hearing change, and patient examples.",
+    "General: lower overall gain or MPO and verify comfort. Specific: reduce high-level gain and/or MPO in the affected bands, often 2000-6000 Hz or 4000-8000 Hz if sharp sounds are painful; consider reducing mid-input gain only if average speech is too loud; consider acclimatization manager with a scheduled increase.",
+    "Increase venting if occlusion contributes; review receiver power, dome/mold coupling, insertion depth, and wax filter.",
+    "Comfort is needed for daily use, but too much reduction can reduce speech access. Make small verified changes and track the exact sound examples.",
+    "Pain, sudden change, hyperacusis with severe distress, dizziness, drainage, asymmetric symptoms.",
+    "ENT/medical for red flags; mental health or tinnitus/sound tolerance specialist for severe distress; manufacturer only for device fault.",
+    "Adjusted loudness based on patient report and verification; reduced output in targeted frequency/input region; counseled on audibility versus comfort and follow-up plan."
+  ],
+  [
+    "Speech is unclear",
+    "Insufficient high-frequency audibility, poor speech-in-noise ability, blocked receiver, inappropriate venting, frequency lowering mismatch, cognitive/listening fatigue, auditory deprivation, poor device use.",
+    "Check audiogram update, speech testing, QuickSIN/BKB-SIN when appropriate, real-ear match, wax filter, microphone ports, dome/mold seal, datalogging, and patient goal.",
+    "General: improve audibility while preserving comfort. Specific: increase soft and average input gain for 2000-6000 Hz if under target; review frequency lowering start/cutoff and strength; avoid overboosting high frequencies if distortion or feedback emerges; verify aided audibility.",
+    "Consider more closed coupling if feedback limits high-frequency gain; replace clogged parts; consider remote microphone for noise/distance.",
+    "Loudness is not the same as clarity. Noise, distance, and brain listening load still matter.",
+    "Sudden clarity decline, asymmetric speech discrimination, unilateral tinnitus, neurologic symptoms.",
+    "ENT/medical for red flags; CI referral if limited aided benefit despite appropriate amplification.",
+    "Reviewed clarity complaint; verified device function and audibility; adjusted high-frequency average/soft gain and counseled on speech-in-noise limitations."
+  ],
+  [
+    "Background noise is overwhelming",
+    "Omnidirectional program, too much low-frequency gain, poor directional mic activation, weak noise management, unrealistic expectations, poor SNR, cognitive fatigue.",
+    "Reproduce complaint; check program use, directionality, noise reduction, datalogging, venting, REM, QuickSIN, communication strategies.",
+    "General: optimize noise program and directional microphones. Specific: reduce low-frequency gain for soft inputs if ambient hum is intrusive; increase noise reduction in dedicated noise program; set directional mic mode more aggressively for restaurants; reduce 125-750 Hz gain only if speech access remains acceptable.",
+    "Consider remote microphone, seating strategies, coupling that supports directional benefits, clean microphone ports.",
+    "Hearing aids improve access but do not erase noise. Teach patient to face talker and use remote mic when distance/noise is high.",
+    "Sudden change, unilateral symptoms, severe dizziness, neurologic concerns.",
+    "Refer for medical red flags; consider assistive technology evaluation or auditory rehab.",
+    "Created/modified noise program; reviewed SNR strategies; discussed remote microphone and realistic expectations."
+  ],
+  [
+    "My own voice is boomy",
+    "Occlusion effect, closed dome/mold, excessive low-frequency gain, deep insertion issue, vent blocked, own-voice processing mismatch.",
+    "Check physical fit, vent patency, insertion depth, unaided low-frequency hearing, REM, patient voice sample.",
+    "General: reduce occlusion and low-frequency excess. Specific: increase venting or use more open coupling if appropriate; reduce low-frequency gain for own-voice region, often 125-750 Hz, especially for soft and average inputs; avoid reducing speech-critical audibility unnecessarily.",
+    "Modify vent, change dome, remake mold, adjust canal length or receiver placement.",
+    "Own voice often improves with adaptation, but severe occlusion usually needs acoustic change, not only counseling.",
+    "Pain, drainage, ear canal irritation, sudden change.",
+    "ENT for ear symptoms; lab/remake for acoustic fit issue.",
+    "Addressed own-voice complaint; vent/coupling reviewed; low-frequency gain adjusted and patient voice checked in office."
+  ],
+  [
+    "Whistling or feedback",
+    "Poor seal, loose earmold, cerumen, cracked tubing, receiver migration, high-frequency gain too high, venting mismatch, feedback manager not calibrated.",
+    "Otoscopy, physical fit, feedback test, receiver/dome/mold inspection, real-ear, hand near ear test, jaw movement test.",
+    "General: run feedback management and review gain. Specific: reduce only the narrow high-frequency region causing feedback if necessary; avoid broad high-frequency cuts that harm speech; review frequency lowering if feedback limits 4000-8000 Hz audibility.",
+    "Replace dome/filter/tubing, remake mold, lengthen canal lock, change receiver strength, reduce vent if medically and acoustically appropriate.",
+    "Feedback is usually fixable, but the cause must be identified before gain is removed.",
+    "Cerumen impaction, pain, drainage, abnormal otoscopy, sudden hearing change.",
+    "ENT for cerumen or ear disease; manufacturer/lab for repair or remake.",
+    "Feedback assessed; otoscopy and physical fit reviewed; feedback manager completed; acoustic modification discussed."
+  ],
+  [
+    "Sharp sounds hurt or S sounds are too sharp",
+    "Excess high-frequency gain or output, MPO too high, frequency lowering artifacts, sound tolerance issue, recruitment, hyperacusis.",
+    "Identify trigger sounds; check REM for loud/MPO inputs; review frequency lowering, compression, acoustic fit, and loudness discomfort.",
+    "General: reduce sharpness while maintaining consonant access. Specific: reduce high-level gain or MPO around 3000-8000 Hz; reduce average input gain 4000-8000 Hz if average speech is sharp; adjust frequency lowering strength/cutoff if /s/ is distorted; consider separate comfort program.",
+    "Consider receiver strength, dome/mold acoustics, venting, and physical discomfort.",
+    "Reduce pain first, then rebuild audibility. Warn that too much high-frequency reduction can reduce speech clarity.",
+    "Pain, sudden onset sound intolerance, dizziness, neurologic signs, severe distress.",
+    "ENT/medical or sound-tolerance specialist when red flags or severe intolerance are present.",
+    "Adjusted high-frequency output for reported sharpness; verified comfort and counseled on speech audibility tradeoffs."
+  ],
+  [
+    "Women or children sound too shrill",
+    "Too much high-frequency gain, frequency lowering setting too strong, receiver/mold resonance, acclimatization issue.",
+    "Use live voice examples; check REM, frequency lowering, compression, and patient sound samples.",
+    "General: soften high-frequency emphasis. Specific: reduce average input gain at 3000-6000 Hz or 4000-8000 Hz in small steps; reduce frequency lowering strength or raise start frequency if high-pitched voices sound unnatural; check MPO if voices are painful.",
+    "Review dome/mold, receiver, insertion, and venting.",
+    "Explain that high-frequency audibility helps speech clarity but should not be painfully sharp.",
+    "Sudden new distortion, unilateral change, neurologic symptoms.",
+    "Medical referral for red flags; manufacturer repair if sound remains distorted with correct programming.",
+    "Fine-tuned high-frequency average gain/frequency lowering based on patient voice examples."
+  ],
+  [
+    "I cannot hear soft speech",
+    "Under-amplification for soft inputs, conservative adaptation, open fitting leakage, blocked receiver, insufficient high-frequency audibility, dead region concerns.",
+    "Check REM for soft speech, SII/audibility estimates, device condition, battery/charge, coupling, patient environments.",
+    "General: increase soft speech audibility. Specific: increase low-level gain for 1000-6000 Hz where below target; avoid raising MPO unless loud sounds are also insufficient; review expansion if soft speech is being suppressed.",
+    "More closed coupling if needed; clean/replace receiver, filters, dome, or mold.",
+    "Soft speech may improve with verified gain, but distance and noise still matter.",
+    "Sudden threshold change, asymmetric symptoms, ear disease signs.",
+    "Medical referral for red flags; CI evaluation when aided speech access remains poor despite optimized fitting.",
+    "Verified soft-speech output; increased soft-input gain in targeted bands and reviewed communication distance."
+  ],
+  [
+    "Restaurants are impossible",
+    "Poor SNR, insufficient directional or remote microphone use, reverberation, unrealistic expectations, poor binaural integration, cognitive fatigue.",
+    "Assess QuickSIN/functional report, programs, remote mic availability, binaural fitting, datalogging, goals.",
+    "General: optimize dedicated restaurant program. Specific: directional microphone focus, stronger noise reduction, modest low-frequency soft-input reduction for environmental noise, maintain mid/high average-input speech audibility, add remote mic setting.",
+    "Consider remote mic, binaural fit, clean microphones, coupling.",
+    "Teach seating, lighting, one talker at a time, and remote mic. Devices cannot remove all competing speech.",
+    "Sudden change or neurologic symptoms.",
+    "Aural rehab, assistive tech, medical referral for red flags.",
+    "Reviewed restaurant complaint; adjusted noise program and counseled on SNR and remote microphone options."
+  ],
+  [
+    "Wind noise is terrible",
+    "Microphone wind turbulence, outdoor program not active, excessive low-frequency gain, microphone cover blockage.",
+    "Check microphone ports, program settings, outdoor examples, physical placement.",
+    "General: enable or strengthen wind management. Specific: reduce low-frequency gain below 750 Hz in outdoor program if wind rumble dominates; use directional/wind algorithm options; preserve speech frequencies when possible.",
+    "Clean mic ports, consider retention/hat interaction, device placement, remote mic location.",
+    "Wind is a microphone physics problem, not patient failure. Outdoor programs may trade some clarity for comfort.",
+    "None specific unless sudden hearing symptoms or dizziness.",
+    "Manufacturer repair if microphones malfunction; medical referral for red flags.",
+    "Outdoor wind complaint addressed; wind management adjusted and low-frequency outdoor gain reviewed."
+  ],
+  [
+    "Music sounds distorted",
+    "Compression, frequency lowering, noise reduction, feedback manager, insufficient bandwidth, too much high-frequency gain, input limiting.",
+    "Ask music type and listening mode; test music program; review streaming versus acoustic input; check REM and MPO.",
+    "General: create a music program with fewer speech-processing artifacts. Specific: disable or reduce frequency lowering for music if appropriate; reduce aggressive noise reduction; adjust MPO/input limiting; reduce narrow high-frequency peaks causing harshness; use slower compression if available.",
+    "Check coupling, receiver headroom, streaming path, Bluetooth codec limitations.",
+    "Music may require a separate program because speech settings are optimized for speech, not fidelity.",
+    "Sudden distortion in one ear or new neurologic/vestibular symptoms.",
+    "Manufacturer support for hardware/streaming faults; medical referral for red flags.",
+    "Music program adjusted with reduced processing artifacts; counseled on music versus speech goals."
+  ],
+  [
+    "Phone calls or streaming are poor",
+    "Bluetooth pairing, streaming balance, phone microphone, program routing, weak battery, app setting, poor cellular connection, one-ear streaming.",
+    "Check pairing, app, phone settings, streaming route, microphones, battery/charge, direct acoustic phone option.",
+    "General: confirm routing and streaming gain. Specific: increase streaming input gain or streaming balance if too soft; reduce environmental microphone during streaming if noise competes; verify phone program gain around speech frequencies 1000-4000 Hz.",
+    "Clean microphones, update firmware through official channels, confirm phone compatibility using official manufacturer pages.",
+    "Not all phone problems are hearing aid problems. Phone model, signal, app, and streaming route matter.",
+    "Sudden hearing changes, pain, dizziness.",
+    "Manufacturer support for device-specific pairing or compatibility; medical referral for red flags.",
+    "Streaming/phone complaint reviewed; routing and gain balance checked; official support link provided."
+  ],
+  [
+    "Sound cuts in and out",
+    "Moisture, receiver wire intermittency, battery/charger failure, loose dome/mold, Bluetooth instability, clogged microphones, software issue.",
+    "Listen-check, battery/charger test, physical inspection, moisture check, receiver swap, datalogging, streaming versus acoustic distinction.",
+    "General: separate acoustic intermittency from streaming intermittency. Specific: do not compensate with gain until hardware is stable; if acoustic output is stable but streaming drops, review streaming settings and phone compatibility.",
+    "Replace receiver/wire/dome/filter; dry device; repair if intermittent in test box.",
+    "Intermittency is often hardware or connectivity, not the patient adapting poorly.",
+    "Pain, drainage, sudden threshold change, dizziness.",
+    "Manufacturer repair/support for hardware or Bluetooth; medical referral for red flags.",
+    "Intermittency evaluated; hardware/connectivity checks completed; repair/support plan documented."
+  ]
+]
