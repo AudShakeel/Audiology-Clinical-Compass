@@ -24,3 +24,8 @@ Clinical and legal safeguards:
 - Last-reviewed date on pages
 
 Last reviewed: May 11, 2026
+
+
+## Patient handout print update
+
+The downloadable PDF handouts in `downloads/handouts/` are patient-facing print handouts. They do not include clinician notes. Each handout uses Times New Roman styling, linked author-date citations, an original educational visual, a patient message box, and a references page. Restricted questionnaires, proprietary manuals, manufacturer software screenshots, and commercial test materials are not reproduced.

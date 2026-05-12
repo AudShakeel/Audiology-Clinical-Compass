@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 15 0 R
 >>
 endobj
 2 0 obj
@@ -17,64 +17,340 @@ endobj
 endobj
 4 0 obj
 <<
-/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
 >>
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/)
+>> /Border [ 0 0 0 ] /Rect [ 142.5728 656.96 208.5184 670.4 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260511225544+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260511225544+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/adult-aural-rehabilitation/)
+>> /Border [ 0 0 0 ] /Rect [ 211.3184 656.96 277.264 670.4 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/)
+>> /Border [ 0 0 0 ] /Rect [ 210.4148 605.96 264.5844 617 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1919
+/A <<
+/S /URI /Type /Action /URI (https://www.nice.org.uk/guidance/ng98/chapter/recommendations)
+>> /Border [ 0 0 0 ] /Rect [ 52 594.96 102.5908 606 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.etymotic.com/product/quicksin/)
+>> /Border [ 0 0 0 ] /Rect [ 199.9452 564.96 275.0632 576 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.etymotic.com/product/quicksin/)
+>> /Border [ 0 0 0 ] /Rect [ 52 553.96 73.4636 565 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/adult-aural-rehabilitation/)
+>> /Border [ 0 0 0 ] /Rect [ 75.7636 553.96 129.9332 565 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.audiology.org/practice-guideline/remote-microphone-hearing-assistance-technologies-for-children-and-youth-birth-21-years/)
+>> /Border [ 0 0 0 ] /Rect [ 168.7664 523.96 255.6236 535 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.audiology.org/practice-guideline/remote-microphone-hearing-assistance-technologies-for-children-and-youth-birth-21-years/)
+>> /Border [ 0 0 0 ] /Rect [ 52 512.96 117.4212 524 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/)
+>> /Border [ 0 0 0 ] /Rect [ 220.8752 244.36 286.8208 257.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.audiology.org/practice-guideline/remote-microphone-hearing-assistance-technologies-for-children-and-youth-birth-21-years/)
+>> /Border [ 0 0 0 ] /Rect [ 56 231.16 244.1824 244.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.etymotic.com/product/quicksin/)
+>> /Border [ 0 0 0 ] /Rect [ 329 338.16 449.3776 351.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.fda.gov/medical-devices/hearing-aids/hearing-aid-benefits-and-limitations)
+>> /Border [ 0 0 0 ] /Rect [ 514.0688 277.36 542.9984 290.8 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.fda.gov/medical-devices/hearing-aids/hearing-aid-benefits-and-limitations)
+>> /Border [ 0 0 0 ] /Rect [ 329 264.16 355.1296 277.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/)
+>> /Border [ 0 0 0 ] /Rect [ 48 574.96 113.9456 588.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/adult-aural-rehabilitation/)
+>> /Border [ 0 0 0 ] /Rect [ 116.7456 574.96 182.6912 588.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.fda.gov/medical-devices/hearing-aids/hearing-aid-benefits-and-limitations)
+>> /Border [ 0 0 0 ] /Rect [ 143.1024 409.76 200.9616 423.2 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/)
+>> /Border [ 0 0 0 ] /Rect [ 101.9994 667.68 288.7828 678 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/)
+>> /Border [ 0 0 0 ] /Rect [ 48 657.68 138.7558 668 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/adult-aural-rehabilitation/)
+>> /Border [ 0 0 0 ] /Rect [ 99.6086 632.68 290.2104 643 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.asha.org/practice-portal/professional-issues/adult-aural-rehabilitation/)
+>> /Border [ 0 0 0 ] /Rect [ 48 622.68 142.1098 633 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.nice.org.uk/guidance/ng98/chapter/recommendations)
+>> /Border [ 0 0 0 ] /Rect [ 48 587.68 275.6334 598 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.audiology.org/practice-guideline/remote-microphone-hearing-assistance-technologies-for-children-and-youth-birth-21-years/)
+>> /Border [ 0 0 0 ] /Rect [ 241.4914 562.68 289.9868 573 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.audiology.org/practice-guideline/remote-microphone-hearing-assistance-technologies-for-children-and-youth-birth-21-years/)
+>> /Border [ 0 0 0 ] /Rect [ 48 552.68 288.9892 563 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.audiology.org/practice-guideline/remote-microphone-hearing-assistance-technologies-for-children-and-youth-birth-21-years/)
+>> /Border [ 0 0 0 ] /Rect [ 48 542.68 233.803 553 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.etymotic.com/product/quicksin/)
+>> /Border [ 0 0 0 ] /Rect [ 48 517.68 202.327 528 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.fda.gov/medical-devices/hearing-aids/hearing-aid-benefits-and-limitations)
+>> /Border [ 0 0 0 ] /Rect [ 89.0994 492.68 286.865 503 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.fda.gov/medical-devices/hearing-aids/hearing-aid-benefits-and-limitations)
+>> /Border [ 0 0 0 ] /Rect [ 48 482.68 150.7098 493 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 16 0 R 
+  17 0 R 18 0 R 19 0 R 20 0 R ] /Contents 41 0 R /MediaBox [ 0 0 612 792 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+36 0 obj
+<<
+/Annots [ 21 0 R 22 0 R 23 0 R ] /Contents 42 0 R /MediaBox [ 0 0 612 792 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+37 0 obj
+<<
+/Annots [ 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 
+  34 0 R ] /Contents 43 0 R /MediaBox [ 0 0 612 792 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+38 0 obj
+<<
+/PageMode /UseNone /Pages 40 0 R /Type /Catalog
+>>
+endobj
+39 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260512010920+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260512010920+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+40 0 obj
+<<
+/Count 3 /Kids [ 35 0 R 36 0 R 37 0 R ] /Type /Pages
+>>
+endobj
+41 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2987
 >>
 stream
-Gau0C9lo&K%)(h*i0`q7Z6_T@PFJ&MgWk!>Ogq`a?5SO-\<0=9UuJu#INKukq.LF9e*LVbYsjcT*ZcB<KLY`0_Ilm]]j0"T9gVEDb7u=eGXBUJoQke%Fc^]`:6+<_c,M2=a4#8i)(4G^`T,A9Ho.PlBTaXI.G=@pN_9#Cj1G^HVj'lma`BW^DoT*tX37"Cc_U0,YsNdM3i>3EBkf[dqH@&M]J>qAWcg%/q(F?"T]l)Uq"GYUpO,_q=s$8nl$\VUpo*k"9ZR&G:*o8ViB-G'c=KbFad(AD4J>4#PhlSY<h`KgP']]JDL6[lJ!01pLf=G,g=/h7U->:=RA5c4"h@gZXGE+$Zr'RrY#['<_7a]H8+Ye5*hAThX%\aW2mtUS@!o9B>31o^.l&34S@?AY2,L!3Z,DZ>adGimRe0qN[>TCeS'BU!+.jY"T1ZJN_BFfOjH_RMBI=D;)Xo3Vg>c$kHPE^+%:[GXK.Q-a0_[Fj3$1+E"!e/b#)`[b+\Sgf-$`?oK%5K=-nE.'$Y`h*=5m,$3Mo-q>[$\&W0X:5&Dkng$T>:AUQtD7bA3@DpTK@18m5amn"Mj*Djg0&k]J-$13tI)jkpq-Uk[,'-lo.JY:jd1VdJ*-PLH<&3.A4;JafE?Se_NhUT6jU%j7AV9VhbM"<Lt?K`kjWGDHmGXfTnkaBfgNo8C861h*+Njg.9g8"_7A(,mZRmLnlbWeQqe!U_\DL%QAQE>$,010Tik7$1Q9Hm3I\p)uO`ID"%S/)PRh8dChX`!*(4/t<8!l1MLo)4,nD3+La)rDEDNpAOnPPEg]'Q--2-$cLj.@'6TT3p19oelG`[8_B3+nFKh<Uc>dEFXom]0F7TX6m5*O3M;;Mo91cWO^!KO/1]L]kh/ua0m@SCA0RAjQHY4%&85"2op.l]c2T^DO7td94V__><5CR(A:*t3kjeA35+&u9.%(O#%Z]+G40c(L(*1?]HRs1DglXAPS@U+[N&IGI>?.:7Q!Kurq_4]7o?RM"rHS<Z^dYU)oQKbfe-a/@<%3(Diuq*VVp>Cu)1(hQ'Pl=bj[r],ar]$\VmCk=Y/t_bW9"5H+th73rK\b&_-CANcLV'.kQ,n;Em'P03mb((i[#gL"%tTod*1&7mg@#9Xaq7%e@H$$C=u]9YKFq'X4j&c%JJk,KkX0A^VL7W1(SeV(HQ7/,sICSNA5^ojHXRIm(<D568.28472/'AF_9#qPSij(8@s7?a]goH`X*NT$Hh5EgCkV@c%`BVa1DI];J^4W_8JrMC[V^q6uOEG16dBk1Tf3J<jJMYn*tar-=ObN&/RrhBN*^q5?g'dt\.:?P1-lN9[4#G0<56m5QK1n@M3QYjfAM-c=nTZ\aAd6u;49\5V[KKgq=%D-#SBBG6MKY*!U(ZmS@kEeKXOp>fWm"MLAmfc^X]4u'g^k)*1>g:)MQKb/>?%Zg$!h?QG0Gq'B=dg"Wt1-.83[g>p+<Ub[lB'k8f6YrI-pk27Q5g)BA%MCgpA<>g5Ek$!dc84ueYE.ka%)N&0*+H(d&;Ieun@#5Mdc9S1e)G#86lS,s'Ch+s&/Dh:5Z6@ASiiC:K91</+&"e.DRocKQ*"bJ&^qc/1cN<XBCcUW(`ZR+3G]E^]!3@E95&6.\nsZ2e]rUHqbaR>>ptWW1l8ZnhcFd]m'm;RLOag?[r</n%<m(7b)4qB'rHjo-0"b>Y",jPOPba^G)+!Y!uFejA:AdBS"8gpO`]/KC-SlZo8.SbB[p:+nRT9%/]od"H8PD$=3:SX")H+XdT.jI4RU/ih>SZna+\LqoI@S(FQ[dNg+ac:7)6e6b4'e7_s;/QF<E)mm5]4k(#_)/%iIK0i$T0Ko)gW$/&1%@G&S&,\1kXf2?79I+kmC3ch>Z*"l"hGp>-1t,N?+o)k!>Fhs`Nq_Yc+$h[eu05M9(&n,~>endstream
+Gau`V=a/UY(4Ol=\;tNfb]7&3*B.[n-`9ZPp%2ZR%l=SaBXibS<TViYG6*l$A4^rTcbti4#R#*tn*V!saMb9Y5*MN#on%X?CQW2W@S)l$\?pKVD\fZ41W/e]d!*R8,2Weq1)r(W9pb.q9MMh7EXY`<o*r=(L,W./_$W?C\"%sMc_O!)=!'l[`a'T$/]C.N5M'IJd;<%AMn4aL=VeB+<V$;ErhdXb?L6/O55m[N%#[$MJm=cHa/5B>^f7Fp53_Gp'H.JM/i"Wchjr`)+$+f7,7PU4R^T,;]N>QQku(Yrj_@GtR4Mkmj+;65ZE"X)n%(T5I]MR&(3)eY:*FR;O`lRFcl*-@]@NW>)F5=qY"9D.]U*=KBC`)o.8akim])Ib>U71RSH!eP@GFgQIM<YCR)Zf'OT<0ti-T!ZU$GhK_*RR'pj<Xl/=YCOa,4#$J$.gtg9kaO?'=u\b$nL1HWrJbKGS%1g;G$Y4(Qa\=XMYh5JD9^Z4&$[psf?/ePlko,mGkG#0B7AcsI/sW_VeR,]VFl@7+*j,t,&Yke%P1BJcMR.2t">]PD%5Vc7,R!')Ec/Ec%mVNl@./#u??)eYd/c62f60EE3tF[Xc$)-40$^TMH<]t9\rD;+Db5Nq(Tj'8t.;/?@*bc#/me1VJ\G2uhO\p,#HHOCn]1(S6RUMH>B#$T2O1K,k^BIEGu<:%%`KcVXfkR;c(];$@MEtk+8LBCnehSokC%Q[:aN.F0<,*,(jR%u^'@[7^DOHZUZPEX]l=2-MOQ+YTJJoW5RX^F$P)I=\GBGtVYl6Si<45Q"QY=/rCVIU][R4+`2/&F?$(8/'kC[R$jg0>s:Vg$G9c`d'.0=PlLC<kk?>o@;%L-3*[g7K(8f<Vne\ja/cS$%L[,qsd`O]@X38XHcc9BC1C'Bmu40d#ptF!dQX?."IeYq9a+Z"B\(.5XtT@o!.&9tSZn<[MX)_5ChW;sC3"i%c%\QjGFbK9$)S#4s[MbA(;uJspQ*MHhr'k#G^DO+Mkj-(++RJSs($F#fYYA7[!#edr8RmGF+Xa[IeLi_:&`,2Z;/*1%aQ,9piU:LV3skl-:N^LmXO,JY[cU#BK?:;kF!Nb^F*I(;"\]$9ZW:dF>QF0EX>)l;F6Rr-j(d#St:rr1:9\WQ^ImWVlYCo6.-+Q94M.8pa^_nXi;^D>!*?@p;$b-PUuMhrhu!\m]5n?KA3RC\bod^;`.4e1!UT5p2G=q?pF(uBN:5l0:3qA<]\>Du(b?'ckL#l;t@`!/)(_[pK('Su'Kl98)&CY-tV>jQ85gSafVTg?<l5F-G[dq@>\CJi=?0!=C(=CR:.k/t/DEP:)j=V]PEr0l)XJWVfac+n88er#2<57?4sp_e0*c`g3>Hdd?hL_/LX.ndBG1cKBM#gh.YBU)uAZtOA?_P4q)2G+7A0hS.>B:O[u#tu@LILiAHig3")!>12')`Z*:CT&fBra<?2b1KO'Le^CTO<EsDKLh4-aC7P2\_H`.Gg=9/i29>(3R_+-/1JWg#4L=!i"+I&M[KXS`t*KL"eT<uS$hH3*db([+@_AOjC%?qdYR<'STRWPE5.kb%`G!7Zg@N=0UqH8WGS#_h:_WRNCG0jf#X64;$^+J`\KW:N#d0#$^[IWV5X<cS4%cB?-R`f57*bK1>R-cI3]P/X>qb=W%*s'IUGo&j7^.Rg5^<435(8t*Jn-l\1_TMpc@(TS9IuR3P0iAefnNfibS\Q/n5^"nc2M,K!c1(?liG_S$$5B,O"E6Zgc#!X<V.)SHrT#B0OR8a0mBMc)2JZ@u7Qt+f@Yc80@]>d3N#/QVA9/B;p6\5>^7"j.]j57pI?-gh\1K2A'<rq`j:;&#od#@?obqmfNo09,-R3Fq6N2b^=qN+u%W.aDf!M`9Gd8AMN,eQ645miKBpHq<G"$mY7c#[PgJTEOm2JNXd(9!h[SN>Sl9_D]IMM,+6,nV3$/:o>-NPBC_s9EiJ3?$-[445Z"oo9ItTm%@0"^BLN7D>CEor$&JEcK>=T$RW/BOj(/pbj5Sj.:OjECo=mQ=MN1&L+s"QVp9A3,J0I`5XjH3bcM,UrF_<*Bhl'j!,Q]ehOPiUlUTr\7'%rQUK>e?c+sZaI!+L6T/eLS]j9$9D!m=E:5GI*IHI!E)a-&W4>[87LIc-l"h(O3?ekU<O/W$oE!JY@%.U)`lBIZ1/M8!$lqf/nq,5Qo-hm]0^]hcPsG0!R!rp!ONC35Ouf6K_jj6#8WacOd@%RPlR#K<?'T68(nf^9SZ\itQcKEog.+dK0&=F@:bop#qY40lZk*S88t77pYA?-'7b=s,:e<MVXgCZ)#"5sNDdCW'0bK8+f0[c*[j6E`B*OQ\3]h=7XVE_NAQG/Qbb8;,9Ub+5`745Ne1=06BlW;H4#7-[Ms(J5[6I7<?_h_G3K:'XE%ba4.!3A.hr.V,hkrXAY"j[&F>ijubU5iC".M6mf%/h=4NXPW<Zd,ct3I&t=G))NqMNSVWCcjfheU^&QckiHPqmmL2.]*sPi5:loVlL`VmU@$[\M!&ZA>]jMI+Wi+Dd;j[54?_H2Ua5U1"P^2V*V#%Cm"NM9*R;]R'Fd&kO=u_spJTYj7eHG"U1qqDdS>$Q^#oRi+pOd>I;.N"ZYUmGi4EV#?@i=G?#Hg3[J81,,2$6lX^YGWpJRmi[(3d'XC9/s5N`/BVlIdPqIQM,9:L(WAUIWQ](@8nPh-W':ACCN:keX/rR+++(2&rtkTP0%<%[0)Q.D7Y'9fIGg$B>L\LQ['F28WkBN)b=:^rK(<B;GL.^9-Z0QEWUX]JILYDXK2N4R<Je,]Hh.5k7QK_VWdl-@__IJ4?tE4mD+Ga8o"e.75JmEPI%6?#:dQ_l`]+Z=_M>H@rXeCUn^A(.B65?1n1C-:M+IOPNeF3R%9;R=WK[`nKRL^Ol@=3%Dnj1H.<W9kgu=OhT(Wg5L@^D<dH>pf-?'K"\GFL-1TBg5$kSeJb`2Bk#J!aeHc*rlUnb9].^+uK0MTO=uE~>endstream
+endobj
+42 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1774
+>>
+stream
+Gau`T=``=U&:W67fXE=JR3bCUa&C#MS"l1U3Rm:d?=4DA&<hW2Jl^E/hZ\8gYXMofM/?BL6st5Rh>MNK"C1jOp30[@]NW1uD[6mbQ8t&B$"3Q0ITt+3cQ#9h3:t$18a&Vu351m#D?+f6Z\LXc^-h:md.-sBp^-12OI/'PnKWjg$d/n>T6[27>;N70aUI%WWa3MX-#\%a0J/NBV-#Z0@/17t0?n(+2#-ul7N;K!R=rA.aS2>/)S(#k_O""\+(E8Lg*KK,p=_O@rIX)(cD3aG][NWVj5l09AXa!+WaZ@>9-H_RQisca[<9XN?$k\K?aV;8A0n>)$BE^-XA(d/<bSFH[0(n;*&^-e5fcXSLob0aplB'Lg,nh@d>En)PWO6cImPfI9#V>gM%cZ5N,O"f&7?-)'HA"r4pd5X_3YfR6`dUVZaN'+cC05td3#;t"'WN@/S&9*>;Qc@HEDkM'cM.dcET]uMt)B+=hk,1m/8Odftm(07h9aR#_40Ib)BBnnAr8LdV`?5)\!_RKHhBVF?d7YVoI<1hFNIO`OOg[s3HR2+P%MhHFZq5##VL&X\F2o]P1$p5[LJu;9@JaV_Kmg2kgo\QUtS`&b9UC_ElphiA/KG^uZV6R[%X2%,SmVl#[*>_MHRC;AGh4g(/[tc(3oC>0Q*RigT2AQIb,%Q)32>[-MG$8T`7R>dA-o@??5$2[q;4P\_8c_:==\`a+0*2X]>5LCh[:ENOKq%7dji`<+_K@m]+nR\Lo]dasc2c,.o:aV#l1e]8#;c-qsEW%g_=X:=Q:-q0oA1i1$MKFtO_6=Hh,)6(l#&Jlu,,@E>^Lfp"Wc7crF]3KmLHGS2Lp;DO)cttr6L/[lpk^8tK`R.k,p_+4XRuUMj8>OanS1!CCH&-PVr_t)TCp%2VGb\cn"Z4tKX];b/bb@F4EU2*>C5h;cAJV@sQ?UeU28%^*;\0+(oFsn\%n*2^k<[&JN`63V<198-M[?gp.4d>$6E--:V3jIBJ7es5p(IV%`[Q.19b++Iin69ppXeJ69VTuq@Hn\'[\33HFBg,>n!b'6"@a7u<i]/0aUtY4Z_m+RZ1MT;l)fe5gScuRKOCZ8Z;`Bm..#+Sb)ht&`kR9r66_aNFAfj9QF4LU0WEH(/(';-hP=)+qnkb0'E.mt@(j$9loV$&R;Gr>T(BP5"^3Q>[f@oDY7W(^"W)I+MI#F0J@=A5g9J)1([k/X)hF(/4&B&-?_("H#me6M'R'tu&g%WYJ9h6M$bJaBc<hVP^^``7KlrbsG+t'LmtkpHfo'b6Qb4sdVRZ*6MZIad'3OM7HOZC[R$5Z(l+1EiIWTeTo,C`=p;@#W`Tr-!e.gf/0;)d[c&j\6$gR9?0NB5CV^nT9P8tTB?eamTX\+^n:!/D":5pXYg8lu.ln16pNj!B-_3[oM^X4E(Ljnh,1TWSK[DQ/YIq9X.QY'Eb(;+P64kOcK+6l$R3rA/bY5*NRcAl@e7*,O@K[@4:&^Pf?J5GS;gp%s6V]#/FoA:Woj+#pU%!Ft//)k'\jN6`XEfUVld6hMWdhB\f^aHfD1>#JZD#UZ#V&Xhs4%;p`k'P./UC]q.d`7A+mtX4`N]*(>-1Pi+W.-.JroF+E]nQMcF(!QjS\j:pO<1BaG8_aUKYXbd(n'?]$(4c?GBYN#J/rrV0R;:3[oqNW%D-9HR:4`:IQ7A(p-'HRqd!Hd]<4*Z]&'q9%\gksH%4a:IipX93pGdTOOWgSn8Ga&[[I-0g_^^%X7m_DD)n&7`)..=607%nGn+Hd".psi=T~>endstream
+endobj
+43 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1311
+>>
+stream
+Gau`R9lo&I&A@C2lr!#3+Mf_Y^:CBeGK+b=>IihsP7WS>";CjCUAk!A5Z3ac7s3j[efU&'&rX5;+5SW(#_/h'/N\JiQ4RA#TJ8!!5Z<i_nes-HZS++$Zb4?m+S6q?('TdF3[pd;F?T5R@\=%Lr3Dj2j"e87`uSiUOdma+=C`!p4.+oG@p-"'[(p2Un$VH4E3A7Hf7mG%,V6pg]S#=<Yl)THq]:@DpG5DiCh==.(`#[O*Ft)LIqmq[J<rMe&r5n.SE(nUP5$,Dr][,7!QURIjq06c%VL29<3,:9S@:hB;D8EEM<]6*iMsX?n:qdeOK=-nB#-2`?M3EA:kOV)h@fTo3,F7b5fcP[MQ1<kpkr3MqO"e$mR>**aiQjJ+0c/7:^,pI8(miNAa$;6YtMqM.edL(*">>/BMm^DA`ZOiigSo945,>)q]<Xr'Nm/`Ge+W4b3=FGDNF9B7J?\WW/T\2f.]GT\Ai>2goWRiS)BaW\n<l2XuOlseo55[6A?M)"?t/l-r*"A,N-BI-1sRej7<rJ3>7[/Q.!IJ^9qR#IKs=GL*0?^3(6SqOY!>NOaCo([;0h%L7?GB0[h_MF<.MA/$14FYZBJ`(9c8G)h[W^)[Kr"+4`g;->WlcJO:(nRUAAo4t5`;3of<$Vt8-k"EucY*Mo2`ls@'9qW7_tUO5k:#sEij#8TE*FHk:Vpi2;Mq!`MPJ!7kZgKX*"Kp9#jI%>8J1X4n<CWY>^*M&>GjAeN`PqhJ'UJ=TjKeWCaO.OuYM=kqVh\&,lGV/%@/)3usqM0$1QVc6\79DHaD7L-603*ds<Bau8PgT+LR3qr/VIq3UGddjag:QXc?<"SYhC\11o&#:%X*(0_hsiZI2..gQlmeA@=?HZ5`>!^hK!Gu*L$n)kh4b?;DcZC7RlgOD7.#6]B^$MIFjPb(oO-hl'BEFS4?1:ISR]MX+SNT\&+5.kf9cbH%!:9(1A[15l)Uh,@CM%tPci-e7V-Yj3Bm/2I$jh%aP]MoluYneoPYO"+-@+6WUgG_W]'e72DjFgq+lnj2q:^bNkhJhQ']b!\jm^A3pb;7l9cqYO.CL1('+)6ns-H!"kjoGkXGf(F-g'1N7@,Im!.V]LnNagW55BKBY<!`epe]6d(I#_6i%k'$TBeho5-sZ\7$q6eT?NFd85UL[re"br7j=4^i_#P2[Jr0fH)((8f8"O)R4Gfe[:JLDLS%9K9@gTac/>p?s#-\>("IBeJ]jd>4;lc15r/o/AC)n.K%K"GVjjRXD(G$&MO[*Oe88C+np-N<u*G[NoOiFqcWIl)ET4iqiZS+@.lOuE\Dn~>endstream
 endobj
 xref
-0 10
+0 44
 0000000000 65535 f 
 0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000327 00000 n 
-0000000436 00000 n 
-0000000629 00000 n 
-0000000697 00000 n 
-0000000977 00000 n 
-0000001036 00000 n 
+0000000133 00000 n 
+0000000240 00000 n 
+0000000348 00000 n 
+0000000458 00000 n 
+0000000567 00000 n 
+0000000795 00000 n 
+0000001025 00000 n 
+0000001251 00000 n 
+0000001451 00000 n 
+0000001639 00000 n 
+0000001820 00000 n 
+0000002049 00000 n 
+0000002328 00000 n 
+0000002601 00000 n 
+0000002685 00000 n 
+0000002914 00000 n 
+0000003189 00000 n 
+0000003374 00000 n 
+0000003607 00000 n 
+0000003835 00000 n 
+0000004058 00000 n 
+0000004290 00000 n 
+0000004523 00000 n 
+0000004750 00000 n 
+0000004971 00000 n 
+0000005200 00000 n 
+0000005424 00000 n 
+0000005625 00000 n 
+0000005904 00000 n 
+0000006177 00000 n 
+0000006449 00000 n 
+0000006630 00000 n 
+0000006859 00000 n 
+0000007084 00000 n 
+0000007389 00000 n 
+0000007618 00000 n 
+0000007906 00000 n 
+0000007976 00000 n 
+0000008257 00000 n 
+0000008332 00000 n 
+0000011411 00000 n 
+0000013277 00000 n 
 trailer
 <<
 /ID 
-[<54b92548552c910fd07a9ee31f3de800><54b92548552c910fd07a9ee31f3de800>]
+[<85b26b98a6701a5e76d841fffd5774e1><85b26b98a6701a5e76d841fffd5774e1>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Info 39 0 R
+/Root 38 0 R
+/Size 44
 >>
 startxref
-3046
+14680
 %%EOF
