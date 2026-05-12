@@ -1,5 +1,293 @@
 [
   {
+    "id": "ASHA HA",
+    "author": "American Speech-Language-Hearing Association",
+    "year": "2024",
+    "title": "Hearing aids for adults",
+    "url": "https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "APSO HA",
+    "author": "Audiology Practice Standards Organization",
+    "year": "2021",
+    "title": "S2.1 Hearing aid fitting for adult and geriatric patients",
+    "url": "https://www.audiologystandards.org/standards/display.php?id=102",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NICE HA",
+    "author": "National Institute for Health and Care Excellence",
+    "year": "2023",
+    "title": "Hearing loss in adults: assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng98",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "FDA HA",
+    "author": "U.S. Food and Drug Administration",
+    "year": "2022",
+    "title": "Hearing aid benefits and limitations",
+    "url": "https://www.fda.gov/medical-devices/hearing-aids/hearing-aid-benefits-and-limitations",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "JCIH",
+    "author": "Joint Committee on Infant Hearing",
+    "year": "2019",
+    "title": "Year 2019 position statement: Principles and guidelines for early hearing detection and intervention programs",
+    "url": "https://digitalcommons.usu.edu/jehdi/vol4/iss2/1/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "AAA PED",
+    "author": "American Academy of Audiology",
+    "year": "2013",
+    "title": "Clinical practice guidelines: Pediatric amplification",
+    "url": "https://www.audiology.org/practice-guideline/clinical-practice-guidelines-pediatric-amplification/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NIDCD HL",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2024",
+    "title": "Hearing aids",
+    "url": "https://www.nidcd.nih.gov/health/hearing-aids",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NIDCD CI",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2024",
+    "title": "Cochlear implants",
+    "url": "https://www.nidcd.nih.gov/health/cochlear-implants",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NIDCD Tinnitus",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2024",
+    "title": "Tinnitus",
+    "url": "https://www.nidcd.nih.gov/health/tinnitus",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NICE Tinnitus",
+    "author": "National Institute for Health and Care Excellence",
+    "year": "2020",
+    "title": "Tinnitus: Assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng155",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "AAO Tinnitus",
+    "author": "Tunkel, D. E., Bauer, C. A., Sun, G. H., Rosenfeld, R. M., Chandrasekhar, S. S., Cunningham, E. R., Archer, S. M., Blakley, B. W., Carter, J. M., Granieri, E. C., Henry, J. A., Hollingsworth, D., Khan, F. A., Mitchell, S., Monfared, A., Newman, C. W., Omole, F. S., Phillips, C. D., Robinson, S. K., ... Whamond, E. J.",
+    "year": "2014",
+    "title": "Clinical practice guideline: Tinnitus",
+    "url": "https://doi.org/10.1177/0194599814545325",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NIDCD Noise",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2024",
+    "title": "Noise-induced hearing loss",
+    "url": "https://www.nidcd.nih.gov/health/noise-induced-hearing-loss",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NIOSH Noise",
+    "author": "National Institute for Occupational Safety and Health",
+    "year": "2024",
+    "title": "Noise and hearing loss prevention",
+    "url": "https://www.cdc.gov/niosh/noise/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "WHO WRH",
+    "author": "World Health Organization",
+    "year": "2021",
+    "title": "World report on hearing",
+    "url": "https://www.who.int/publications/i/item/world-report-on-hearing",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NIDCD Meniere",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2024",
+    "title": "Meniere's disease",
+    "url": "https://www.nidcd.nih.gov/health/menieres-disease",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "Lopez Meniere",
+    "author": "Lopez-Escamez, J. A., Carey, J., Chung, W. H., Goebel, J. A., Magnusson, M., Mandala, M., Newman-Toker, D. E., Strupp, M., Suzuki, M., Trabalzini, F., & Bisdorff, A.",
+    "year": "2015",
+    "title": "Diagnostic criteria for Meniere's disease",
+    "url": "https://doi.org/10.3233/VES-150549",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "AAO BPPV",
+    "author": "Bhattacharyya, N., Gubbels, S. P., Schwartz, S. R., Edlow, J. A., El-Kashlan, H., Fife, T., Holmberg, J. M., Mahoney, K., Hollingsworth, D. B., Roberts, R., Seidman, M. D., Steiner, R. W., Do, B. T., Voelker, C. C. J., Waguespack, R. W., & Corrigan, M. D.",
+    "year": "2017",
+    "title": "Clinical practice guideline: Benign paroxysmal positional vertigo update",
+    "url": "https://doi.org/10.1177/0194599816689667",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "Hall VR",
+    "author": "Hall, C. D., Herdman, S. J., Whitney, S. L., Cass, S. P., Clendaniel, R. A., Fife, T. D., Furman, J. M., Getchius, T. S. D., Goebel, J. A., Shepard, N. T., & Woodhouse, S. N.",
+    "year": "2022",
+    "title": "Vestibular rehabilitation for peripheral vestibular hypofunction: Clinical practice guideline update",
+    "url": "https://doi.org/10.1097/NPT.0000000000000382",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "CDC CMV",
+    "author": "Centers for Disease Control and Prevention",
+    "year": "2024",
+    "title": "Congenital CMV and hearing loss",
+    "url": "https://www.cdc.gov/cytomegalovirus/congenital-infection/hearing-loss.html",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "NIDCD Pendred",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2024",
+    "title": "Pendred syndrome",
+    "url": "https://www.nidcd.nih.gov/health/pendred-syndrome",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews Deafness",
+    "author": "Shearer, A. E., Hildebrand, M. S., & Smith, R. J. H.",
+    "year": "2023",
+    "title": "Hereditary hearing loss and deafness overview",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK1434/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews Pendred",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "Pendred syndrome and related thyroid findings",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews Usher",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "Usher syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews Waardenburg",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "Waardenburg syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews BOR",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "Branchiootorenal spectrum disorder",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews CHD7",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "CHD7 disorder",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews Alport",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "Alport syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews JLN",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "Jervell and Lange-Nielsen syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews Stickler",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "Stickler syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews NF2",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "NF2-related schwannomatosis",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "GeneReviews OTOF",
+    "author": "GeneReviews",
+    "year": "2024",
+    "title": "OTOF-related hearing loss and auditory neuropathy",
+    "url": "https://www.ncbi.nlm.nih.gov/books/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "AAA CAPD",
+    "author": "American Academy of Audiology",
+    "year": "2010",
+    "title": "Clinical practice guidelines: Diagnosis, treatment, and management of children and adults with central auditory processing disorder",
+    "url": "https://www.audiology.org/practice-guideline/clinical-practice-guidelines-diagnosis-treatment-and-management-of-children-and-adults-with-central-auditory-processing-disorder/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "ASHA CAPD",
+    "author": "American Speech-Language-Hearing Association",
+    "year": "2024",
+    "title": "Central auditory processing disorder",
+    "url": "https://www.asha.org/practice-portal/clinical-topics/central-auditory-processing-disorder/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "AER EHDI",
+    "author": "American Academy of Audiology",
+    "year": "2020",
+    "title": "Clinical guidance document: Assessment of hearing in infants and young children",
+    "url": "https://www.audiology.org/practice-guideline/clinical-guidance-document-assessment-of-hearing-in-infants-and-young-children/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "ASHA Ototoxicity",
+    "author": "American Speech-Language-Hearing Association",
+    "year": "2024",
+    "title": "Ototoxicity",
+    "url": "https://www.asha.org/practice-portal/professional-issues/ototoxicity/",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
+    "id": "WHO Safe Listening",
+    "author": "World Health Organization",
+    "year": "2022",
+    "title": "Safe listening devices and systems",
+    "url": "https://www.who.int/activities/making-listening-safe",
+    "status": "Official or peer-reviewed source. Link to source. Do not copy restricted content unless permission is confirmed."
+  },
+  {
     "id": "asha_ha",
     "author": "American Speech-Language-Hearing Association",
     "year": "2024",
