@@ -1,0 +1,1170 @@
+[
+  {
+    "name": "ABC Scale",
+    "fullName": "Activities-specific Balance Confidence Scale",
+    "specialty": "Vestibular and fall-risk care",
+    "purpose": "Balance confidence and fall concern",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.sralab.org/rehabilitation-measures/activities-specific-balance-confidence-scale",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Acoustic Reflex Decay",
+    "fullName": "Immittance test interpretation support",
+    "specialty": "Diagnostic audiology",
+    "purpose": "Retrocochlear screening support",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=acoustic+reflex+decay+audiology",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "ACPT",
+    "fullName": "ACPT",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=acpt",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "ADHD Listening Concern Screener",
+    "fullName": "ADHD Listening Concern Screener",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=adhd+listening+concern+screener",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Aided SII",
+    "fullName": "Aided Speech Intelligibility Index",
+    "specialty": "Pediatric amplification",
+    "purpose": "Audibility of speech with amplification",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=aided+speech+intelligibility+index+pediatric+hearing+aids",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Amsterdam Inventory for Auditory Disability",
+    "fullName": "Amsterdam Inventory for Auditory Disability",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=amsterdam+inventory+for+auditory+disability",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "APHAB",
+    "fullName": "Abbreviated Profile of Hearing Aid Benefit",
+    "specialty": "Adult hearing aid care",
+    "purpose": "Self-perceived hearing aid benefit and difficulty",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://harlmemphis.org/abbreviated-profile-of-hearing-aid-benefit-aphab/",
+    "permission": "Link only/source page",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "aphab-harl"
+    ]
+  },
+  {
+    "name": "Auditory Behavior in Everyday Life",
+    "fullName": "Auditory Behavior in Everyday Life",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=auditory+behavior+in+everyday+life",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Auditory Skills Checklist",
+    "fullName": "Auditory Skills Checklist",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=auditory+skills+checklist",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Auditory Verbal Learning Goal Tracker",
+    "fullName": "Auditory Verbal Learning Goal Tracker",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=auditory+verbal+learning+goal+tracker",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "AzBio",
+    "fullName": "AzBio Sentence Test",
+    "specialty": "Cochlear implant and aided speech perception",
+    "purpose": "Sentence recognition, often used in CI evaluation",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4643855/",
+    "permission": "Do not reproduce test lists",
+    "citations": [
+      "azbio-spahr"
+    ]
+  },
+  {
+    "name": "Berg Balance Scale",
+    "fullName": "Balance and fall-risk screening",
+    "specialty": "Vestibular and physical therapy",
+    "purpose": "Functional balance performance",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.sralab.org/rehabilitation-measures/berg-balance-scale",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "BKB Words",
+    "fullName": "BKB Words",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=bkb+words",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "BKB-SIN",
+    "fullName": "Bamford-Kowal-Bench Speech-in-Noise Test",
+    "specialty": "Pediatric and adult speech-in-noise",
+    "purpose": "Speech-in-noise performance",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.asha.org/practice-portal/clinical-topics/hearing-loss/",
+    "permission": "Commercial or source-dependent",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Caloric Asymmetry Calculator",
+    "fullName": "Caloric Asymmetry Calculator",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=caloric+asymmetry+calculator",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "CAPD Questionnaires",
+    "fullName": "Listening difficulty and CAPD referral",
+    "specialty": "CAPD",
+    "purpose": "Listening and auditory behavior concerns",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.asha.org/practice-portal/clinical-topics/central-auditory-processing-disorder/",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "CI Quality of Life Profile",
+    "fullName": "CI Quality of Life Profile",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=ci+quality+of+life+profile",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Client Goal Interview",
+    "fullName": "Client Goal Interview",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=client+goal+interview",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "CNC Words",
+    "fullName": "Consonant-Nucleus-Consonant Word Test",
+    "specialty": "Cochlear implant and aided word recognition",
+    "purpose": "Monosyllabic word recognition",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=CNC+word+test+cochlear+implant",
+    "permission": "Do not reproduce test lists",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Communication Confidence Rating",
+    "fullName": "Communication Confidence Rating",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=communication+confidence+rating",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "COSI",
+    "fullName": "Client Oriented Scale of Improvement",
+    "specialty": "Adult amplification and goal setting",
+    "purpose": "Individualized listening goals and perceived improvement",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.nal.gov.au/nal_products/cosi/",
+    "permission": "Official source link",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "cosi-nal"
+    ]
+  },
+  {
+    "name": "COSI-C",
+    "fullName": "Client Oriented Scale of Improvement for Children",
+    "specialty": "Pediatric amplification and family goals",
+    "purpose": "Family-centered listening goals",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.nal.gov.au/nal_products/cosi/",
+    "permission": "Official source link/review terms",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "COWAT Referral Support",
+    "fullName": "COWAT Referral Support",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=cowat+referral+support",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "cVEMP",
+    "fullName": "Cervical vestibular evoked myogenic potential",
+    "specialty": "Vestibular audiology",
+    "purpose": "Saccular and inferior vestibular nerve pathway support",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=cVEMP+vestibular+audiology",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Daily Device Use Log",
+    "fullName": "Daily Device Use Log",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=daily+device+use+log",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "DHI",
+    "fullName": "Dizziness Handicap Inventory",
+    "specialty": "Vestibular audiology",
+    "purpose": "Self-perceived impact of dizziness",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Dizziness+Handicap+Inventory+Jacobson+Newman+1990",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Dichotic Digits Test",
+    "fullName": "Dichotic Digits Test",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=dichotic+digits+test",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Dizziness Symptom Profile",
+    "fullName": "Dizziness Symptom Profile",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=dizziness+symptom+profile",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "DPOAE Tracking Form",
+    "fullName": "DPOAE Tracking Form",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=dpoae+tracking+form",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "ECochG",
+    "fullName": "ECochG",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=ecochg",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "EVA Listening Scale",
+    "fullName": "EVA Listening Scale",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=eva+listening+scale",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Fall History Checklist",
+    "fullName": "Fall History Checklist",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=fall+history+checklist",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Family Communication Scale",
+    "fullName": "Family Communication Scale",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=family+communication+scale",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Fatigue Assessment Scale",
+    "fullName": "Fatigue Assessment Scale",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=fatigue+assessment+scale",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "FGA",
+    "fullName": "Functional Gait Assessment",
+    "specialty": "Vestibular and fall-risk care",
+    "purpose": "Dynamic gait and fall risk",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.sralab.org/rehabilitation-measures/functional-gait-assessment",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "GAD-7",
+    "fullName": "Generalized Anxiety Disorder 7-item Scale",
+    "specialty": "Psychosocial screening referral support",
+    "purpose": "Anxiety symptom screening, not audiologic diagnosis",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=GAD-7+Spitzer+2006",
+    "permission": "Link only/use within scope",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Glasgow Hearing Aid Benefit Profile",
+    "fullName": "Glasgow Hearing Aid Benefit Profile",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=glasgow+hearing+aid+benefit+profile",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Hearing Aid Skills and Management",
+    "fullName": "Hearing Aid Skills and Management",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=hearing+aid+skills+and+management",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Hearing Handicap Screening",
+    "fullName": "Hearing Handicap Screening",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=hearing+handicap+screening",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Hearing-Related Quality of Life",
+    "fullName": "Hearing-Related Quality of Life",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=hearing+related+quality+of+life",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "HHIA",
+    "fullName": "Hearing Handicap Inventory for Adults",
+    "specialty": "Adult hearing loss counseling",
+    "purpose": "Perceived social and emotional hearing impact",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Hearing+Handicap+Inventory+for+Adults",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "HHIE",
+    "fullName": "Hearing Handicap Inventory for the Elderly",
+    "specialty": "Geriatric audiology",
+    "purpose": "Perceived hearing handicap in older adults",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Hearing+Handicap+Inventory+for+the+Elderly",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "HINT",
+    "fullName": "Hearing in Noise Test",
+    "specialty": "Speech-in-noise testing",
+    "purpose": "Sentence recognition in noise",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Hearing+in+Noise+Test+Nilsson+Solibus+Sullivan+1994",
+    "permission": "Commercial/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Hyperacusis Questionnaire",
+    "fullName": "Khalfa Hyperacusis Questionnaire",
+    "specialty": "Sound tolerance care",
+    "purpose": "Sound sensitivity impact",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Khalfa+hyperacusis+questionnaire",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "IOI-HA",
+    "fullName": "International Outcome Inventory for Hearing Aids",
+    "specialty": "Hearing aid outcomes",
+    "purpose": "Global hearing aid outcome domains",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=International+Outcome+Inventory+for+Hearing+Aids",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "IT-MAIS",
+    "fullName": "Infant-Toddler Meaningful Auditory Integration Scale",
+    "specialty": "Pediatric CI and amplification",
+    "purpose": "Early auditory behaviors",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=IT-MAIS+Meaningful+Auditory+Integration+Scale",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Listening Effort Rating",
+    "fullName": "Listening Effort Rating",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=listening+effort+rating",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Listening Situations Questionnaire",
+    "fullName": "Listening Situations Questionnaire",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=listening+situations+questionnaire",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "LittlEARS",
+    "fullName": "LittlEARS Auditory Questionnaire",
+    "specialty": "Pediatric amplification and CI",
+    "purpose": "Early auditory development",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.medel.com/hearing-solutions/rehabilitation/assessments/littlears",
+    "permission": "Official source/review license",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Localization Rating Scale",
+    "fullName": "Localization Rating Scale",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=localization+rating+scale",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "MAIS",
+    "fullName": "Meaningful Auditory Integration Scale",
+    "specialty": "Pediatric amplification and CI",
+    "purpose": "Auditory behavior in everyday settings",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Meaningful+Auditory+Integration+Scale",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "MCL and UCL Tracking",
+    "fullName": "MCL and UCL Tracking",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=mcl+and+ucl+tracking",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Mini-BESTest",
+    "fullName": "Mini Balance Evaluation Systems Test",
+    "specialty": "Vestibular and fall-risk care",
+    "purpose": "Dynamic balance domains",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.sralab.org/rehabilitation-measures/mini-balance-evaluation-systems-test",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "MoCA",
+    "fullName": "Montreal Cognitive Assessment",
+    "specialty": "Interdisciplinary referral context",
+    "purpose": "Cognitive screening by qualified provider",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://mocacognition.com/",
+    "permission": "License required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Music Perception Self-Report",
+    "fullName": "Music Perception Self-Report",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=music+perception+self+report",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Noise Exposure History",
+    "fullName": "Noise Exposure History",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=noise+exposure+history",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "OAE Pediatric Protocol Checklist",
+    "fullName": "OAE Pediatric Protocol Checklist",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=oae+pediatric+protocol+checklist",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Oldenburg Sentence Test",
+    "fullName": "Oldenburg Sentence Test",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=oldenburg+sentence+test",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "oVEMP",
+    "fullName": "Ocular vestibular evoked myogenic potential",
+    "specialty": "Vestibular audiology",
+    "purpose": "Utricular and superior vestibular nerve pathway support",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=oVEMP+vestibular+audiology",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "PEACH",
+    "fullName": "Parents' Evaluation of Aural/Oral Performance of Children",
+    "specialty": "Pediatric functional listening",
+    "purpose": "Functional auditory performance",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=PEACH+Parents+Evaluation+of+Aural+Oral+Performance+of+Children",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Pediatric Listening Fatigue",
+    "fullName": "Pediatric Listening Fatigue",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=pediatric+listening+fatigue",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Pediatric Minimum Speech Test Battery",
+    "fullName": "Pediatric Minimum Speech Test Battery",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=pediatric+minimum+speech+test+battery",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Pediatric Quality of Life Hearing Module",
+    "fullName": "Pediatric Quality of Life Hearing Module",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=pediatric+quality+of+life+hearing+module",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Phonak COSI Goal Tracker",
+    "fullName": "Phonak COSI Goal Tracker",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=phonak+cosi+goal+tracker",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "PHQ-9",
+    "fullName": "Patient Health Questionnaire 9-item Scale",
+    "specialty": "Psychosocial screening referral support",
+    "purpose": "Depression symptom screening, not audiologic diagnosis",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=PHQ-9+Kroenke+2001",
+    "permission": "Link only/use within scope",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Quick Disability of Arm, Shoulder and Hand for Vestibular PT Referral Context",
+    "fullName": "Quick Disability of Arm, Shoulder and Hand for Vestibular PT Referral Context",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=quick+disability+of+arm+shoulder+and+hand+for+vestibular+pt+referral+context",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "QuickSIN",
+    "fullName": "Quick Speech-in-Noise Test",
+    "specialty": "Adult and aided speech-in-noise",
+    "purpose": "SNR loss and speech-in-noise difficulty",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://etymotic.com/product/quicksin/",
+    "permission": "Commercial test/link only",
+    "citations": [
+      "quicksin-etymotic"
+    ]
+  },
+  {
+    "name": "Rotary Chair Gain and Phase Review",
+    "fullName": "Rotary Chair Gain and Phase Review",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=rotary+chair+gain+and+phase+review",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "SADL",
+    "fullName": "Satisfaction with Amplification in Daily Life",
+    "specialty": "Adult hearing aids",
+    "purpose": "Hearing aid satisfaction",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Satisfaction+with+Amplification+in+Daily+Life",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Self-Efficacy for Hearing Aids",
+    "fullName": "Self-Efficacy for Hearing Aids",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=self+efficacy+for+hearing+aids",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Sound Intolerance Inventory",
+    "fullName": "Sound Intolerance Inventory",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=sound+intolerance+inventory",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Speech Banana Counseling Tool",
+    "fullName": "Speech Banana Counseling Tool",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=speech+banana+counseling+tool",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Speech in Noise Self-Report",
+    "fullName": "Speech in Noise Self-Report",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=speech+in+noise+self+report",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "SSQ",
+    "fullName": "Speech, Spatial and Qualities of Hearing Scale",
+    "specialty": "Adult hearing and CI outcomes",
+    "purpose": "Speech, spatial, and sound quality domains",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Speech+Spatial+Qualities+of+Hearing+Scale+SSQ",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "SSQ-12",
+    "fullName": "Short Speech, Spatial and Qualities of Hearing Scale",
+    "specialty": "Adult hearing and CI outcomes",
+    "purpose": "Short-form speech, spatial, and sound quality domains",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=SSQ-12+hearing+scale",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "TEACH",
+    "fullName": "Teachers' Evaluation of Aural/Oral Performance of Children",
+    "specialty": "Educational audiology",
+    "purpose": "Functional listening in school",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=TEACH+Teachers+Evaluation+of+Aural+Oral+Performance+of+Children",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "TFI",
+    "fullName": "Tinnitus Functional Index",
+    "specialty": "Tinnitus care",
+    "purpose": "Tinnitus impact and treatment outcome tracking",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://apps.ohsu.edu/research/tech-portal/technology/view/1004796",
+    "permission": "License review required",
+    "citations": [
+      "tfi-ohsu",
+      "nidcd-tinnitus"
+    ]
+  },
+  {
+    "name": "THI",
+    "fullName": "Tinnitus Handicap Inventory",
+    "specialty": "Tinnitus care",
+    "purpose": "Tinnitus handicap and distress",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Tinnitus+Handicap+Inventory+Newman+1996",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Tinnitus and Hearing Survey",
+    "fullName": "Tinnitus and Hearing Survey",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=tinnitus+and+hearing+survey",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Tinnitus Reaction Questionnaire",
+    "fullName": "Tinnitus Reaction Questionnaire",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=tinnitus+reaction+questionnaire",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "TUG",
+    "fullName": "Timed Up and Go",
+    "specialty": "Fall-risk screening",
+    "purpose": "Basic mobility and fall risk",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://www.sralab.org/rehabilitation-measures/timed-and-go",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Unilateral Hearing Loss Functional Checklist",
+    "fullName": "Unilateral Hearing Loss Functional Checklist",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=unilateral+hearing+loss+functional+checklist",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "UW-CAMP",
+    "fullName": "University of Washington Clinical Assessment of Music Perception",
+    "specialty": "CI music perception",
+    "purpose": "Music perception with hearing technology",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=University+of+Washington+Clinical+Assessment+of+Music+Perception",
+    "permission": "Link only/source review",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "VADL",
+    "fullName": "Vestibular Activities of Daily Living Scale",
+    "specialty": "Vestibular care",
+    "purpose": "Functional impact of dizziness",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=Vestibular+Activities+of+Daily+Living+Scale",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Vestibular Migraine Screening History",
+    "fullName": "Vestibular Migraine Screening History",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=vestibular+migraine+screening+history",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Vestibular Symptom Scale",
+    "fullName": "Vestibular Symptom Scale",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=vestibular+symptom+scale",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "vHIT",
+    "fullName": "Video Head Impulse Test",
+    "specialty": "Vestibular audiology",
+    "purpose": "Semicircular canal VOR gain support",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=video+head+impulse+test+vestibular",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "VNG",
+    "fullName": "Videonystagmography",
+    "specialty": "Vestibular audiology",
+    "purpose": "Oculomotor, positional, and caloric patterns",
+    "population": "Use when clinically appropriate for the specialty, age group, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=videonystagmography+vestibular+testing",
+    "permission": "Link only or source review required",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Word Recognition Critical Difference Table",
+    "fullName": "Word Recognition Critical Difference Table",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=word+recognition+critical+difference+table",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Workplace Listening Needs Checklist",
+    "fullName": "Workplace Listening Needs Checklist",
+    "specialty": "Audiology specialty support",
+    "purpose": "Clinical tracking, counseling, or referral support. Verify source and scope before clinical use.",
+    "population": "Use only when appropriate for the patient, setting, and test purpose.",
+    "officialLink": "https://pubmed.ncbi.nlm.nih.gov/?term=workplace+listening+needs+checklist",
+    "permission": "Source review required",
+    "citations": [
+      "asha-counseling",
+      "who-hearing"
+    ]
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "appointmentType": "ABR Threshold Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/abr-threshold-evaluation-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Adult Diagnostic Audiologic Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/adult-diagnostic-audiologic-evaluation-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "BPPV Evaluation and Treatment",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/bppv-evaluation-and-treatment-template.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "appointmentType": "Bimodal CI + Hearing Aid Follow-Up",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/bimodal-ci-hearing-aid-follow-up-template.pdf",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "appointmentType": "Bone-Conduction Device Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/bone-conduction-device-evaluation-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Bone-Conduction Device Fitting",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/bone-conduction-device-fitting-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "CAPD Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/capd-evaluation-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Cochlear Implant Activation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/cochlear-implant-activation-template.pdf",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "appointmentType": "Cochlear Implant Candidacy Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/cochlear-implant-candidacy-evaluation-template.pdf",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "appointmentType": "Cochlear Implant Follow-Up and Mapping",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/cochlear-implant-follow-up-and-mapping-template.pdf",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "appointmentType": "Educational Audiology Consultation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/educational-audiology-consultation-template.pdf",
+    "citations": [
+      "jcih-2019",
+      "aaa-ped-amp"
+    ]
+  },
+  {
+    "appointmentType": "First Cochlear Implant Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/first-cochlear-implant-evaluation-template.pdf",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "appointmentType": "Hearing Aid Check or Follow-Up",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/hearing-aid-check-or-follow-up-template.pdf",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Hearing Aid Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/hearing-aid-evaluation-template.pdf",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Hearing Aid Fitting",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/hearing-aid-fitting-template.pdf",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Hearing Aid Repair or Drop-Off Encounter",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/hearing-aid-repair-or-drop-off-encounter-template.pdf",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Hyperacusis or Sound Tolerance Intake",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/hyperacusis-or-sound-tolerance-intake-template.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "tfi-ohsu",
+      "asha-counseling"
+    ]
+  },
+  {
+    "appointmentType": "Industrial Hearing Conservation Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/industrial-hearing-conservation-evaluation-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Musician Hearing Conservation Consultation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/musician-hearing-conservation-consultation-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Neurodiagnostic ABR",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/neurodiagnostic-abr-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "OAE Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/oae-evaluation-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Ototoxicity Monitoring",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/ototoxicity-monitoring-template.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "asha-counseling",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Pediatric Diagnostic Audiologic Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/pediatric-diagnostic-audiologic-evaluation-template.pdf",
+    "citations": [
+      "jcih-2019",
+      "aaa-ped-amp"
+    ]
+  },
+  {
+    "appointmentType": "Real-Ear Verification Appointment",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/real-ear-verification-appointment-template.pdf",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "appointmentType": "Rotary Chair Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/rotary-chair-evaluation-template.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "appointmentType": "Second Cochlear Implant Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/second-cochlear-implant-evaluation-template.pdf",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "appointmentType": "Single-Sided Deafness CI Consultation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/single-sided-deafness-ci-consultation-template.pdf",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "appointmentType": "Tinnitus Intake Appointment",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/tinnitus-intake-appointment-template.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "tfi-ohsu",
+      "asha-counseling"
+    ]
+  },
+  {
+    "appointmentType": "VEMP and Third-Window Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/vemp-and-third-window-evaluation-template.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "appointmentType": "VNG Report",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/vng-report-template.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "appointmentType": "Vestibular Evaluation",
+    "caseHistory": "Onset, duration, laterality, symptoms, functional concerns, medical/otologic history, device history, medications when relevant, school/work impact, and patient goals.",
+    "sections": "Otoscopy, immittance, behavioral and/or objective testing, device or vestibular procedures as appropriate, counseling, impression, recommendations.",
+    "impression": "Use cautious, source-backed language. Avoid diagnosing outside audiology scope.",
+    "template": "downloads/templates/vestibular-evaluation-template.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  }
+]

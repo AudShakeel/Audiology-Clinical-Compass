@@ -1,0 +1,245 @@
+[
+  {
+    "id": "asha-ha-adults",
+    "author": "American Speech-Language-Hearing Association",
+    "year": "n.d.",
+    "short": "ASHA",
+    "title": "Hearing Aids For Adults",
+    "url": "https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/",
+    "apa": "American Speech-Language-Hearing Association. (n.d.). Hearing aids for adults. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/hearing-aids-for-adults/"
+  },
+  {
+    "id": "asha-counseling",
+    "author": "American Speech-Language-Hearing Association",
+    "year": "n.d.",
+    "short": "ASHA",
+    "title": "Counseling in Audiology and Speech-Language Pathology",
+    "url": "https://www.asha.org/practice-portal/professional-issues/counseling-in-audiology-and-speech-language-pathology/",
+    "apa": "American Speech-Language-Hearing Association. (n.d.). Counseling in audiology and speech-language pathology. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/counseling-in-audiology-and-speech-language-pathology/"
+  },
+  {
+    "id": "asha-hearing-loss-adults",
+    "author": "American Speech-Language-Hearing Association",
+    "year": "n.d.",
+    "short": "ASHA",
+    "title": "Hearing Loss in Adults",
+    "url": "https://www.asha.org/practice-portal/clinical-topics/hearing-loss/",
+    "apa": "American Speech-Language-Hearing Association. (n.d.). Hearing loss in adults. ASHA Practice Portal. https://www.asha.org/practice-portal/clinical-topics/hearing-loss/"
+  },
+  {
+    "id": "nice-ng98",
+    "author": "National Institute for Health and Care Excellence",
+    "year": "2018",
+    "short": "NICE",
+    "title": "Hearing loss in adults: Assessment and management",
+    "url": "https://www.nice.org.uk/guidance/ng98",
+    "apa": "National Institute for Health and Care Excellence. (2018). Hearing loss in adults: Assessment and management (NG98). https://www.nice.org.uk/guidance/ng98"
+  },
+  {
+    "id": "fda-ha-warning",
+    "author": "U.S. Food and Drug Administration",
+    "year": "2022",
+    "short": "FDA",
+    "title": "Hearing Aid Benefits and Limitations",
+    "url": "https://www.fda.gov/medical-devices/hearing-aids/hearing-aid-benefits-and-limitations",
+    "apa": "U.S. Food and Drug Administration. (2022). Hearing aid benefits and limitations. https://www.fda.gov/medical-devices/hearing-aids/hearing-aid-benefits-and-limitations"
+  },
+  {
+    "id": "jcih-2019",
+    "author": "Joint Committee on Infant Hearing",
+    "year": "2019",
+    "short": "JCIH",
+    "title": "Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs",
+    "url": "https://digitalcommons.usu.edu/jehdi/vol4/iss2/1/",
+    "apa": "Joint Committee on Infant Hearing. (2019). Year 2019 position statement: Principles and guidelines for early hearing detection and intervention programs. Journal of Early Hearing Detection and Intervention, 4(2), 1-44. https://digitalcommons.usu.edu/jehdi/vol4/iss2/1/"
+  },
+  {
+    "id": "aaa-ped-amp",
+    "author": "American Academy of Audiology",
+    "year": "2013",
+    "short": "AAA",
+    "title": "Clinical Practice Guidelines: Pediatric Amplification",
+    "url": "https://www.audiology.org/practice-guideline/clinical-practice-guidelines-pediatric-amplification/",
+    "apa": "American Academy of Audiology. (2013). Clinical practice guidelines: Pediatric amplification. https://www.audiology.org/practice-guideline/clinical-practice-guidelines-pediatric-amplification/"
+  },
+  {
+    "id": "aao-hns-ssnhl",
+    "author": "Chandrasekhar et al.",
+    "year": "2019",
+    "short": "AAO-HNSF",
+    "title": "Clinical Practice Guideline: Sudden Hearing Loss (Update)",
+    "url": "https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/sudden-hearing-loss-update/",
+    "apa": "Chandrasekhar, S. S., Tsai Do, B. S., Schwartz, S. R., et al. (2019). Clinical practice guideline: Sudden hearing loss (update). Otolaryngology-Head and Neck Surgery, 161(1_suppl), S1-S45. https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/sudden-hearing-loss-update/"
+  },
+  {
+    "id": "aao-hns-bppv",
+    "author": "Bhattacharyya et al.",
+    "year": "2017",
+    "short": "AAO-HNSF",
+    "title": "Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update)",
+    "url": "https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/bppv/",
+    "apa": "Bhattacharyya, N., Gubbels, S. P., Schwartz, S. R., et al. (2017). Clinical practice guideline: Benign paroxysmal positional vertigo (update). Otolaryngology-Head and Neck Surgery, 156(3_suppl), S1-S47. https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/bppv/"
+  },
+  {
+    "id": "nidcd-tinnitus",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2023",
+    "short": "NIDCD",
+    "title": "What Is Tinnitus? Causes and Treatment",
+    "url": "https://www.nidcd.nih.gov/health/tinnitus",
+    "apa": "National Institute on Deafness and Other Communication Disorders. (2023). What is tinnitus? https://www.nidcd.nih.gov/health/tinnitus"
+  },
+  {
+    "id": "nidcd-balance",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "n.d.",
+    "short": "NIDCD",
+    "title": "Balance Disorders",
+    "url": "https://www.nidcd.nih.gov/health/balance-disorders",
+    "apa": "National Institute on Deafness and Other Communication Disorders. (n.d.). Balance disorders. https://www.nidcd.nih.gov/health/balance-disorders"
+  },
+  {
+    "id": "nidcd-otosclerosis",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2022",
+    "short": "NIDCD",
+    "title": "What Is Otosclerosis?",
+    "url": "https://www.nidcd.nih.gov/health/otosclerosis",
+    "apa": "National Institute on Deafness and Other Communication Disorders. (2022). What is otosclerosis? https://www.nidcd.nih.gov/health/otosclerosis"
+  },
+  {
+    "id": "nidcd-menieres",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2024",
+    "short": "NIDCD",
+    "title": "What Is Meniere's Disease?",
+    "url": "https://www.nidcd.nih.gov/health/menieres-disease",
+    "apa": "National Institute on Deafness and Other Communication Disorders. (2024). What is Meniere's disease? https://www.nidcd.nih.gov/health/menieres-disease"
+  },
+  {
+    "id": "nidcd-ansd",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2018",
+    "short": "NIDCD",
+    "title": "What Is Auditory Neuropathy?",
+    "url": "https://www.nidcd.nih.gov/health/auditory-neuropathy",
+    "apa": "National Institute on Deafness and Other Communication Disorders. (2018). What is auditory neuropathy? https://www.nidcd.nih.gov/health/auditory-neuropathy"
+  },
+  {
+    "id": "nidcd-vs",
+    "author": "National Institute on Deafness and Other Communication Disorders",
+    "year": "2017",
+    "short": "NIDCD",
+    "title": "Vestibular Schwannoma and Neurofibromatosis",
+    "url": "https://www.nidcd.nih.gov/health/vestibular-schwannoma-acoustic-neuroma-and-neurofibromatosis",
+    "apa": "National Institute on Deafness and Other Communication Disorders. (2017). Vestibular schwannoma and neurofibromatosis. https://www.nidcd.nih.gov/health/vestibular-schwannoma-acoustic-neuroma-and-neurofibromatosis"
+  },
+  {
+    "id": "cdc-cmv",
+    "author": "Centers for Disease Control and Prevention",
+    "year": "2024",
+    "short": "CDC",
+    "title": "Congenital CMV and Hearing Loss",
+    "url": "https://www.cdc.gov/cytomegalovirus/congenital-infection/hearing-loss.html",
+    "apa": "Centers for Disease Control and Prevention. (2024). Congenital CMV and hearing loss. https://www.cdc.gov/cytomegalovirus/congenital-infection/hearing-loss.html"
+  },
+  {
+    "id": "genereviews-hl",
+    "author": "Shearer et al.",
+    "year": "2025",
+    "short": "GeneReviews",
+    "title": "Genetic Hearing Loss Overview",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK1434/",
+    "apa": "Shearer, A. E., Hildebrand, M. S., Odell, A. M., et al. (2025). Genetic hearing loss overview. In GeneReviews. University of Washington. https://www.ncbi.nlm.nih.gov/books/NBK1434/"
+  },
+  {
+    "id": "who-hearing",
+    "author": "World Health Organization",
+    "year": "2021",
+    "short": "WHO",
+    "title": "World Report on Hearing",
+    "url": "https://www.who.int/publications/i/item/world-report-on-hearing",
+    "apa": "World Health Organization. (2021). World report on hearing. https://www.who.int/publications/i/item/world-report-on-hearing"
+  },
+  {
+    "id": "aci-adult-candidacy",
+    "author": "Zeitler et al.",
+    "year": "2024",
+    "short": "ACI Alliance",
+    "title": "Recommendations for Determining Cochlear Implant Candidacy in Adults",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10914083/",
+    "apa": "Zeitler, D. M., et al. (2024). American Cochlear Implant Alliance Task Force recommendations for determining cochlear implant candidacy in adults. The Laryngoscope, 134(Suppl. 6), S1-S21. https://pmc.ncbi.nlm.nih.gov/articles/PMC10914083/"
+  },
+  {
+    "id": "aci-ssd",
+    "author": "Dillon et al.",
+    "year": "2022",
+    "short": "ACI Alliance",
+    "title": "Guidelines for Assessment and Management of Adult Cochlear Implantation for Single-Sided Deafness",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35994570/",
+    "apa": "Dillon, M. T., et al. (2022). American Cochlear Implant Alliance Task Force guidelines for clinical assessment and management of adult cochlear implantation for single-sided deafness. Ear and Hearing, 43(2), 255-267. https://pubmed.ncbi.nlm.nih.gov/35994570/"
+  },
+  {
+    "id": "cosi-nal",
+    "author": "National Acoustic Laboratories",
+    "year": "n.d.",
+    "short": "NAL",
+    "title": "Client Oriented Scale of Improvement",
+    "url": "https://www.nal.gov.au/nal_products/cosi/",
+    "apa": "National Acoustic Laboratories. (n.d.). Client Oriented Scale of Improvement. https://www.nal.gov.au/nal_products/cosi/"
+  },
+  {
+    "id": "aphab-harl",
+    "author": "Cox and Alexander",
+    "year": "1995",
+    "short": "HARL",
+    "title": "Abbreviated Profile of Hearing Aid Benefit",
+    "url": "https://harlmemphis.org/abbreviated-profile-of-hearing-aid-benefit-aphab/",
+    "apa": "Cox, R. M., & Alexander, G. C. (1995). The Abbreviated Profile of Hearing Aid Benefit. Ear and Hearing, 16(2), 176-186. https://harlmemphis.org/abbreviated-profile-of-hearing-aid-benefit-aphab/"
+  },
+  {
+    "id": "tfi-ohsu",
+    "author": "Oregon Health & Science University",
+    "year": "n.d.",
+    "short": "OHSU",
+    "title": "Tinnitus Functional Index licensing page",
+    "url": "https://apps.ohsu.edu/research/tech-portal/technology/view/1004796",
+    "apa": "Oregon Health & Science University. (n.d.). Tinnitus Functional Index. https://apps.ohsu.edu/research/tech-portal/technology/view/1004796"
+  },
+  {
+    "id": "quicksin-etymotic",
+    "author": "Etymotic Research",
+    "year": "n.d.",
+    "short": "Etymotic",
+    "title": "QuickSIN Speech-in-Noise Test",
+    "url": "https://etymotic.com/product/quicksin/",
+    "apa": "Etymotic Research. (n.d.). QuickSIN Speech-in-Noise Test. https://etymotic.com/product/quicksin/"
+  },
+  {
+    "id": "azbio-spahr",
+    "author": "Spahr et al.",
+    "year": "2012",
+    "short": "Spahr et al.",
+    "title": "Development and Validation of the AzBio Sentence Lists",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4643855/",
+    "apa": "Spahr, A. J., Dorman, M. F., Litvak, L. M., et al. (2012). Development and validation of the AzBio sentence lists. Ear and Hearing, 33(1), 112-117. https://pmc.ncbi.nlm.nih.gov/articles/PMC4643855/"
+  },
+  {
+    "id": "english-pcc",
+    "author": "English",
+    "year": "2022",
+    "short": "English",
+    "title": "Patient-centered care in audiology",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=English+2022+patient+centered+care+audiology",
+    "apa": "English, K. (2022). Patient-centered care in audiology. Seminars in Hearing. Source link: https://pubmed.ncbi.nlm.nih.gov/?term=English+2022+patient+centered+care+audiology"
+  },
+  {
+    "id": "bennett-mental-health",
+    "author": "Bennett et al.",
+    "year": "2020",
+    "short": "Bennett et al.",
+    "title": "Psychosocial considerations and mental health in audiology",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Bennett+psychosocial+content+audiology+2020",
+    "apa": "Bennett, R. J., et al. (2020). Psychosocial considerations in audiology. Ear and Hearing. Source link: https://pubmed.ncbi.nlm.nih.gov/?term=Bennett+psychosocial+content+audiology+2020"
+  }
+]

@@ -1,0 +1,2184 @@
+[
+  {
+    "condition": "Abnormal ABR Neural Conduction Pattern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/abnormal-abr-neural-conduction-pattern.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Absent OAEs With Normal Tympanometry",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/absent-oaes-with-normal-tympanometry.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Acoustic Trauma",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/acoustic-trauma.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Acute Otitis Media",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/acute-otitis-media.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Age-Related Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/age-related-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Alport Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/alport-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Alstrom Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/alstrom-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Anxiety and Dizziness Interaction",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/anxiety-and-dizziness-interaction.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Apert Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/apert-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Asymmetric Sensorineural Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/asymmetric-sensorineural-hearing-loss.pdf",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Auditory Neuropathy Spectrum Disorder",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/auditory-neuropathy-spectrum-disorder.pdf",
+    "citations": [
+      "nidcd-ansd",
+      "jcih-2019",
+      "aaa-ped-amp"
+    ]
+  },
+  {
+    "condition": "Aural Fullness With Hearing Symptoms",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/aural-fullness-with-hearing-symptoms.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Autoimmune Inner Ear Disease",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/autoimmune-inner-ear-disease.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Autosomal Dominant Nonsyndromic Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/autosomal-dominant-nonsyndromic-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Autosomal Recessive Nonsyndromic Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/autosomal-recessive-nonsyndromic-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Barotrauma",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/barotrauma.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Bartter Syndrome With Sensorineural Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/bartter-syndrome-with-sensorineural-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Benign Paroxysmal Positional Vertigo",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/benign-paroxysmal-positional-vertigo.pdf",
+    "citations": [
+      "aao-hns-bppv",
+      "nidcd-balance"
+    ]
+  },
+  {
+    "condition": "Bilateral Vestibular Hypofunction",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/bilateral-vestibular-hypofunction.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Biotinidase Deficiency and Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/biotinidase-deficiency-and-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Blast-Related Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/blast-related-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Branchio-Oto-Renal Spectrum Disorder",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/branchio-oto-renal-spectrum-disorder.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "CHD7 Disorder and CHARGE Features",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/chd7-disorder-and-charge-features.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Canal Stenosis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/canal-stenosis.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Central Auditory Processing Disorder",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/central-auditory-processing-disorder.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Central Vestibular Red-Flag Pattern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/central-vestibular-red-flag-pattern.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Cerebellar Ocular Motor Pattern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/cerebellar-ocular-motor-pattern.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Cerumen Impaction",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/cerumen-impaction.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Cholesteatoma",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/cholesteatoma.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Chronic Dizziness",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/chronic-dizziness.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Chronic Middle-Ear Disease With Sensorineural Component",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/chronic-middle-ear-disease-with-sensorineural-component.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Chronic Otitis Media",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/chronic-otitis-media.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Cochlear Dead Region Concern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/cochlear-dead-region-concern.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Cochlear Nerve Deficiency",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/cochlear-nerve-deficiency.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Conductive Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/conductive-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Congenital Aural Atresia",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/congenital-aural-atresia.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Congenital CMV",
+    "category": "Congenital infection",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/congenital-cmv.pdf",
+    "citations": [
+      "cdc-cmv",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Congenital Rubella and Hearing Loss",
+    "category": "Congenital infection",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/congenital-rubella-and-hearing-loss.pdf",
+    "citations": [
+      "cdc-cmv",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Crouzon Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/crouzon-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "DFNA9-Related Hearing and Vestibular Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/dfna9-related-hearing-and-vestibular-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Delayed-Onset Childhood Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/delayed-onset-childhood-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Down Syndrome and Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/down-syndrome-and-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Enlarged Vestibular Aqueduct",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/enlarged-vestibular-aqueduct.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Eustachian Tube Dysfunction",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/eustachian-tube-dysfunction.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "External Auditory Canal Atresia",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/external-auditory-canal-atresia.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "External Auditory Canal Exostoses",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/external-auditory-canal-exostoses.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Facial Weakness With Hearing Symptoms",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/facial-weakness-with-hearing-symptoms.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Failed Newborn Hearing Screening",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/failed-newborn-hearing-screening.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Fall-Risk Imbalance",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/fall-risk-imbalance.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Falls With Hearing and Balance Concerns",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/falls-with-hearing-and-balance-concerns.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Foreign Body in Ear Canal",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/foreign-body-in-ear-canal.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "GJB2-Related Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/gjb2-related-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Glomus Tumor Referral Pattern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/glomus-tumor-referral-pattern.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Goldenhar Syndrome and Oculo-Auriculo-Vertebral Spectrum",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/goldenhar-syndrome-and-oculo-auriculo-vertebral-spectrum.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Hearing Difficulty With Normal Audiogram",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hearing-difficulty-with-normal-audiogram.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Hearing Loss After Chemotherapy",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hearing-loss-after-chemotherapy.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Hearing Loss After Head Injury",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hearing-loss-after-head-injury.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Hearing Loss After Meningitis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hearing-loss-after-meningitis.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Hearing Loss After Noise Exposure",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hearing-loss-after-noise-exposure.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Hearing Loss After Radiation",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hearing-loss-after-radiation.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Hemifacial Microsomia",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hemifacial-microsomia.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Hidden Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hidden-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Hunter Syndrome and Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hunter-syndrome-and-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Hurler Syndrome and Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hurler-syndrome-and-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Hyperacusis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hyperacusis.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "condition": "Hypermobile Tympanic Membrane",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/hypermobile-tympanic-membrane.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Jervell and Lange-Nielsen Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/jervell-and-lange-nielsen-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Kabuki Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/kabuki-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Kearns-Sayre Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/kearns-sayre-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Labyrinthitis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/labyrinthitis.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Low-Frequency Sensorineural Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/low-frequency-sensorineural-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "MELAS and Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/melas-and-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "MERRF and Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/merrf-and-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Mastoiditis Referral Concern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/mastoiditis-referral-concern.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Medication-Related Dizziness",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/medication-related-dizziness.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Meniere's Disease",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/meniere-s-disease.pdf",
+    "citations": [
+      "nidcd-menieres",
+      "nidcd-balance",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Microtia",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/microtia.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Middle-Ear Effusion",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/middle-ear-effusion.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Migraine-Associated Dizziness",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/migraine-associated-dizziness.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Misophonia",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/misophonia.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "condition": "Mitochondrial Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/mitochondrial-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Mixed Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/mixed-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Mohr-Tranebjaerg Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/mohr-tranebjaerg-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Motion Sensitivity",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/motion-sensitivity.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Muckle-Wells Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/muckle-wells-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Negative Middle-Ear Pressure",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/negative-middle-ear-pressure.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Neurofibromatosis Type 2 Related Schwannomatosis",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/neurofibromatosis-type-2-related-schwannomatosis.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Noise-Induced Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/noise-induced-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Noise-Induced Tinnitus",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/noise-induced-tinnitus.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "condition": "Noonan Syndrome and Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/noonan-syndrome-and-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Norrie Disease",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/norrie-disease.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Norrie Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/norrie-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "OTOF-Related Auditory Neuropathy",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/otof-related-auditory-neuropathy.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Ossicular Chain Discontinuity",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/ossicular-chain-discontinuity.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Ossicular Fixation",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/ossicular-fixation.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Osteogenesis Imperfecta and Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/osteogenesis-imperfecta-and-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Otitis Externa",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/otitis-externa.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Otitis Media With Effusion",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/otitis-media-with-effusion.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Otodental Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/otodental-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Otosclerosis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/otosclerosis.pdf",
+    "citations": [
+      "nidcd-otosclerosis",
+      "asha-hearing-loss-adults",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Ototoxic Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/ototoxic-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Patulous Eustachian Tube",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/patulous-eustachian-tube.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Pediatric Auditory Neuropathy Spectrum Disorder",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/pediatric-auditory-neuropathy-spectrum-disorder.pdf",
+    "citations": [
+      "nidcd-ansd",
+      "jcih-2019",
+      "aaa-ped-amp"
+    ]
+  },
+  {
+    "condition": "Pediatric Bilateral Sensorineural Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/pediatric-bilateral-sensorineural-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Pediatric Conductive Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/pediatric-conductive-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Pediatric Unilateral Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/pediatric-unilateral-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Pendred Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/pendred-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Perilymphatic Fistula",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/perilymphatic-fistula.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Perrault Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/perrault-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Persistent Postural Perceptual Dizziness",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/persistent-postural-perceptual-dizziness.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Pierre Robin Sequence",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/pierre-robin-sequence.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Poor Disproportionate Word Recognition",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/poor-disproportionate-word-recognition.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Positional Dizziness",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/positional-dizziness.pdf",
+    "citations": [
+      "aao-hns-bppv",
+      "nidcd-balance"
+    ]
+  },
+  {
+    "condition": "Presbycusis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/presbycusis.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Present OAEs With Behavioral Discrepancy",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/present-oaes-with-behavioral-discrepancy.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Pressure-Induced Dizziness",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/pressure-induced-dizziness.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Progressive Sensorineural Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/progressive-sensorineural-hearing-loss.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Pulsatile Tinnitus",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/pulsatile-tinnitus.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "condition": "Refsum Disease",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/refsum-disease.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Retrocochlear Concern Pattern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/retrocochlear-concern-pattern.pdf",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "STRC-Related Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/strc-related-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Single-Sided Deafness",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/single-sided-deafness.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Somatic Tinnitus Concern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/somatic-tinnitus-concern.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "condition": "Sound-Induced Dizziness",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/sound-induced-dizziness.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Speech and Language Delay With Hearing Concern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/speech-and-language-delay-with-hearing-concern.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Speech-In-Noise Difficulty",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/speech-in-noise-difficulty.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Stickler Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/stickler-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Stickler Syndrome and Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/stickler-syndrome-and-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Sudden Asymmetric Hearing Change",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/sudden-asymmetric-hearing-change.pdf",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Sudden Sensorineural Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/sudden-sensorineural-hearing-loss.pdf",
+    "citations": [
+      "aao-hns-ssnhl",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Superior Semicircular Canal Dehiscence",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/superior-semicircular-canal-dehiscence.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "TARP Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/tarp-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Temporal Bone Fracture",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/temporal-bone-fracture.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Third-Window Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/third-window-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Tinnitus With Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/tinnitus-with-hearing-loss.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "condition": "Tinnitus With Normal Audiogram",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/tinnitus-with-normal-audiogram.pdf",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "condition": "Townes-Brocks Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/townes-brocks-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Traumatic Brain Injury and Auditory Symptoms",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/traumatic-brain-injury-and-auditory-symptoms.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Treacher Collins Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/treacher-collins-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Turner Syndrome and Hearing Loss",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/turner-syndrome-and-hearing-loss.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Tympanic Membrane Perforation",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/tympanic-membrane-perforation.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Tympanic Membrane Retraction",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/tympanic-membrane-retraction.pdf",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Tympanosclerosis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/tympanosclerosis.pdf",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "condition": "Unilateral Tinnitus With Asymmetry",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/unilateral-tinnitus-with-asymmetry.pdf",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Usher Syndrome Type 1",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/usher-syndrome-type-1.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Usher Syndrome Type 2",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/usher-syndrome-type-2.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Usher Syndrome Type 3",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/usher-syndrome-type-3.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Van der Hoeve Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/van-der-hoeve-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Vestibular Migraine",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/vestibular-migraine.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Vestibular Neuritis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/vestibular-neuritis.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Vestibular Schwannoma Referral Pattern",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/vestibular-schwannoma-referral-pattern.pdf",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "condition": "Vestibular Symptoms With Hearing Loss",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/vestibular-symptoms-with-hearing-loss.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Viral Labyrinthitis",
+    "category": "Acquired or otologic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/viral-labyrinthitis.pdf",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "condition": "Waardenburg Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/waardenburg-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Waardenburg Syndrome and Balance Concerns",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/waardenburg-syndrome-and-balance-concerns.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "condition": "Wolfram Syndrome",
+    "category": "Genetic or syndromic",
+    "hearingFindings": "Variable. May involve sensorineural, conductive, mixed, neural, unilateral, bilateral, fluctuating, or progressive findings depending on the condition.",
+    "vestibularFindings": "Possible when the condition involves the vestibular end organs, eighth nerve, central pathways, migraine mechanisms, third-window physiology, or multisensory balance.",
+    "typicalOnset": "Congenital, childhood-onset, adult-onset, acute, delayed-onset, or progressive depending on condition.",
+    "referral": "Use cautious language. Consider ENT, otology, neurology, genetics, vestibular PT, pediatrician, or emergency referral depending on symptoms and red flags.",
+    "handout": "downloads/conditions/wolfram-syndrome.pdf",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  }
+]

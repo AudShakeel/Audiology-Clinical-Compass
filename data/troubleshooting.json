@@ -1,0 +1,1802 @@
+[
+  {
+    "device": "Hearing aids",
+    "complaint": "App controls do not match devices",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Background noise is overwhelming",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check MPO first, then loud-input gain and compression. Consider reducing MPO or loud-input gain in the frequency region triggering discomfort, reducing transient noise features if available, and adding a comfort program while maintaining speech audibility.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Battery drains quickly",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Bluetooth connects then drops",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check app pairing, phone routing, microphone mix, streaming balance, firmware, accessory charge, and phone compatibility. Adjust streamed signal level or microphone attenuation only after confirming the complaint occurs with multiple calls or sources.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Cannot connect to phone",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check app pairing, phone routing, microphone mix, streaming balance, firmware, accessory charge, and phone compatibility. Adjust streamed signal level or microphone attenuation only after confirming the complaint occurs with multiple calls or sources.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Car sounds are overwhelming",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check MPO first, then loud-input gain and compression. Consider reducing MPO or loud-input gain in the frequency region triggering discomfort, reducing transient noise features if available, and adding a comfort program while maintaining speech audibility.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Chewing is too loud",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check MPO first, then loud-input gain and compression. Consider reducing MPO or loud-input gain in the frequency region triggering discomfort, reducing transient noise features if available, and adding a comfort program while maintaining speech audibility.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Compression feels unnatural",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Data logging shows low use",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Device is dead",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check battery or charging contacts, receiver, cable, microphone ports, moisture, wax blockage, and datalogging. Replace external parts before reprogramming. Send for repair if intermittency persists.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Dome slips out",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Ear feels plugged",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Review occlusion and low-frequency output. Consider more venting or an open dome if appropriate, reduce low-frequency gain for soft and moderate inputs, and verify physical fit. Avoid changes that reduce needed low-frequency audibility in low-frequency losses.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Earmold causes soreness",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Echo in large rooms",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Everything is too loud",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check MPO first, then loud-input gain and compression. Consider reducing MPO or loud-input gain in the frequency region triggering discomfort, reducing transient noise features if available, and adding a comfort program while maintaining speech audibility.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Feedback after wax removal",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Inspect wax, dome or earmold fit, venting, receiver placement, and ear canal changes. Run feedback management if appropriate, improve physical seal, and only reduce high-frequency gain if physical and acoustic causes have been addressed.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Hearing aid is itchy",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Hearing aid restarts randomly",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Hearing aid whistles during phone use",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check app pairing, phone routing, microphone mix, streaming balance, firmware, accessory charge, and phone compatibility. Adjust streamed signal level or microphone attenuation only after confirming the complaint occurs with multiple calls or sources.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Hearing aids amplify unwanted sounds",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Hearing aids sound tinny or artificial",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Consider reducing high-frequency gain for moderate and loud inputs, especially around 3000 to 8000 Hz, and review frequency lowering, compression kneepoints, receiver output, venting, and feedback constraints. Confirm that audibility for speech is not reduced more than needed.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Hearing aids squeal when hugged",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Inspect wax, dome or earmold fit, venting, receiver placement, and ear canal changes. Run feedback management if appropriate, improve physical seal, and only reduce high-frequency gain if physical and acoustic causes have been addressed.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "I cannot hear soft speech",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check microphone, wax filter, receiver, and dome or earmold first. Consider increasing soft-input gain in affected speech-frequency regions, confirm target match with verification, and evaluate whether coupling or receiver strength limits available output.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Intermittent static",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check battery or charging contacts, receiver, cable, microphone ports, moisture, wax blockage, and datalogging. Replace external parts before reprogramming. Send for repair if intermittency persists.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Left and right programs seem mismatched",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Localization feels off",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Mask or glasses dislodge devices",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Moisture problems after exercise",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Muffled sound after cleaning",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Music sounds distorted",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Consider a music program with less aggressive noise reduction, less feedback suppression if safe, wider bandwidth when possible, slower compression, and careful high-frequency gain review.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "My own voice is boomy",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Review occlusion and low-frequency output. Consider more venting or an open dome if appropriate, reduce low-frequency gain for soft and moderate inputs, and verify physical fit. Avoid changes that reduce needed low-frequency audibility in low-frequency losses.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "No improvement in meetings",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Confirm directional microphone and noise management settings, consider a dedicated speech-in-noise program, verify remote microphone options, and counsel that hearing aids improve access but do not remove all background noise.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "One hearing aid sounds stronger",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Own voice sounds hollow",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Review occlusion and low-frequency output. Consider more venting or an open dome if appropriate, reduce low-frequency gain for soft and moderate inputs, and verify physical fit. Avoid changes that reduce needed low-frequency audibility in low-frequency losses.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Paper or dishes sound painful",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check MPO first, then loud-input gain and compression. Consider reducing MPO or loud-input gain in the frequency region triggering discomfort, reducing transient noise features if available, and adding a comfort program while maintaining speech audibility.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Patient cannot insert devices",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Patient hears better unaided in some places",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Patient removes devices due to fatigue",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Phone calls are poor",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check app pairing, phone routing, microphone mix, streaming balance, firmware, accessory charge, and phone compatibility. Adjust streamed signal level or microphone attenuation only after confirming the complaint occurs with multiple calls or sources.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Receiver keeps failing",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Receiver wire is uncomfortable",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Rechargeable aid will not charge",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Remote microphone is not helping",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check app pairing, phone routing, microphone mix, streaming balance, firmware, accessory charge, and phone compatibility. Adjust streamed signal level or microphone attenuation only after confirming the complaint occurs with multiple calls or sources.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Restaurants are impossible",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Confirm directional microphone and noise management settings, consider a dedicated speech-in-noise program, verify remote microphone options, and counsel that hearing aids improve access but do not remove all background noise.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "S sounds are too sharp",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Consider reducing high-frequency gain for moderate and loud inputs, especially around 3000 to 8000 Hz, and review frequency lowering, compression kneepoints, receiver output, venting, and feedback constraints. Confirm that audibility for speech is not reduced more than needed.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Sharp sounds hurt",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Consider reducing high-frequency gain for moderate and loud inputs, especially around 3000 to 8000 Hz, and review frequency lowering, compression kneepoints, receiver output, venting, and feedback constraints. Confirm that audibility for speech is not reduced more than needed.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Soft environmental sounds are annoying",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check microphone, wax filter, receiver, and dome or earmold first. Consider increasing soft-input gain in affected speech-frequency regions, confirm target match with verification, and evaluate whether coupling or receiver strength limits available output.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Sound cuts in and out",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check battery or charging contacts, receiver, cable, microphone ports, moisture, wax blockage, and datalogging. Replace external parts before reprogramming. Send for repair if intermittency persists.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Sound is delayed",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Sound is distorted after drop",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Speech is loud but not clear",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Speech is unclear",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Speech is worse with new domes",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Streaming is too soft",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check microphone, wax filter, receiver, and dome or earmold first. Consider increasing soft-input gain in affected speech-frequency regions, confirm target match with verification, and evaluate whether coupling or receiver strength limits available output.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "TV streamer is too loud",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Check MPO first, then loud-input gain and compression. Consider reducing MPO or loud-input gain in the frequency region triggering discomfort, reducing transient noise features if available, and adding a comfort program while maintaining speech audibility.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Tinnitus program is not helping",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Use manufacturer-neutral steps: compare to prescriptive target, check MPO and loudness growth, adjust gain by input level, and confirm comfort with speech and calibrated loudness samples.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Too much road noise",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Confirm directional microphone and noise management settings, consider a dedicated speech-in-noise program, verify remote microphone options, and counsel that hearing aids improve access but do not remove all background noise.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Whistling or feedback",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Inspect wax, dome or earmold fit, venting, receiver placement, and ear canal changes. Run feedback management if appropriate, improve physical seal, and only reduce high-frequency gain if physical and acoustic causes have been addressed.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Wind noise is terrible",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Confirm directional microphone and noise management settings, consider a dedicated speech-in-noise program, verify remote microphone options, and counsel that hearing aids improve access but do not remove all background noise.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Hearing aids",
+    "complaint": "Women and children sound too shrill",
+    "patientChecks": "Check battery or charger, clean microphone openings gently, change wax filter or dome if trained, confirm device is inserted correctly, and note where the problem occurs.",
+    "clinicianChecks": "Verify device function, otoscopy, coupling, feedback manager status, real-ear or simulated verification as available, data logging, and patient description before changing programming.",
+    "programming": "Consider reducing high-frequency gain for moderate and loud inputs, especially around 3000 to 8000 Hz, and review frequency lowering, compression kneepoints, receiver output, venting, and feedback constraints. Confirm that audibility for speech is not reduced more than needed.",
+    "acousticDevice": "Inspect coupling, receiver, dome, earmold, venting, tube, wax filter, microphone ports, moisture, and physical fit.",
+    "redFlags": "Pain, drainage, sudden hearing change, dizziness, unilateral change, or device-related injury warrants medical or urgent clinic guidance.",
+    "documentation": "Patient reported: [complaint]. Device and ear-level checks completed. Programming and acoustic changes reviewed with verification or functional confirmation when available.",
+    "citations": [
+      "asha-ha-adults",
+      "nice-ng98",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Accessory pairing problem",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Aided thresholds are poorer than expected",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check microphones, processor, coil, aided thresholds, datalogging, and map use. Consider increasing stimulation levels cautiously in regions with poor access, verify detection across frequency regions, and consider medical or device integrity pathways if responses change suddenly.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Background noise is overwhelming with CI",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Review microphone directionality, noise program, remote microphone use, bilateral or bimodal strategy, counseling, and auditory training. Test aided speech in quiet and noise when feasible to separate map access from environmental limits.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Battery drains quickly",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Bimodal ear dominates",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check HA function and verified audibility, CI map comfort, loudness balance using speech and environmental sounds, streaming balance, delay perception, and whether low-frequency acoustic cues complement the CI. Adjust HA gain/coupling and CI levels cautiously.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI and hearing aid do not sound balanced",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check HA function and verified audibility, CI map comfort, loudness balance using speech and environmental sounds, streaming balance, delay perception, and whether low-frequency acoustic cues complement the CI. Adjust HA gain/coupling and CI levels cautiously.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI causes dizziness",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Treat new dizziness with device use as a red flag. Stop using the problematic program if instructed by the implant team, review timing relative to mapping changes, check medical symptoms, and refer to the implant team or medical provider.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI causes facial twitching",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Treat as a clinical red flag. Check electrode-specific stimulation, impedances, map changes, and medical history. Consider reducing or deactivating the involved electrode only within implant-center protocol and refer to the implant surgeon or manufacturer support as needed.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI cuts in and out",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Replace or inspect external components first: battery, cable, coil, microphone cover, processor contacts, moisture, and retention. If troubleshooting fails or symptoms are new, contact manufacturer support and the implant center.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI dominates HA",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check HA function and verified audibility, CI map comfort, loudness balance using speech and environmental sounds, streaming balance, delay perception, and whether low-frequency acoustic cues complement the CI. Adjust HA gain/coupling and CI levels cautiously.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI is too loud",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Recheck comfortable loudness levels and reduce overly loud stimulation in affected channels when behavior supports it. Pay attention to high-frequency electrodes or channels for sharpness and confirm that soft access is not unnecessarily reduced.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI is too soft",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check microphones, processor, coil, aided thresholds, datalogging, and map use. Consider increasing stimulation levels cautiously in regions with poor access, verify detection across frequency regions, and consider medical or device integrity pathways if responses change suddenly.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI listening feels exhausting",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI sound is metallic",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Counsel that early sound quality may be unusual while the auditory system adapts. Clinically, review global comfort, rate or strategy only if within protocol, frequency allocation concerns, high-frequency channel balance, and whether progressive maps are being advanced too quickly.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI sounds robotic",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Counsel that early sound quality may be unusual while the auditory system adapts. Clinically, review global comfort, rate or strategy only if within protocol, frequency allocation concerns, high-frequency channel balance, and whether progressive maps are being advanced too quickly.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "CI user avoids restaurants",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Review microphone directionality, noise program, remote microphone use, bilateral or bimodal strategy, counseling, and auditory training. Test aided speech in quiet and noise when feasible to separate map access from environmental limits.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Child rejects processor",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Coil falls off",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Device alarms frequently",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Environmental sounds are annoying",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Everything sounds echoey",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Facial stimulation after mapping change",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Treat as a clinical red flag. Check electrode-specific stimulation, impedances, map changes, and medical history. Consider reducing or deactivating the involved electrode only within implant-center protocol and refer to the implant surgeon or manufacturer support as needed.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "HA ear sounds delayed",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check HA function and verified audibility, CI map comfort, loudness balance using speech and environmental sounds, streaming balance, delay perception, and whether low-frequency acoustic cues complement the CI. Adjust HA gain/coupling and CI levels cautiously.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "High-pitched sounds are too sharp",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Recheck comfortable loudness levels and reduce overly loud stimulation in affected channels when behavior supports it. Pay attention to high-frequency electrodes or channels for sharpness and confirm that soft access is not unnecessarily reduced.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Impedance concern",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Intermittent sound after cable change",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Replace or inspect external components first: battery, cable, coil, microphone cover, processor contacts, moisture, and retention. If troubleshooting fails or symptoms are new, contact manufacturer support and the implant center.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Localization feels worse",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Lost processor settings concern",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Low voices are missing",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check microphones, processor, coil, aided thresholds, datalogging, and map use. Consider increasing stimulation levels cautiously in regions with poor access, verify detection across frequency regions, and consider medical or device integrity pathways if responses change suddenly.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Magnet site is sore",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Magnet too strong concern",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Magnet too weak concern",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Map has narrow dynamic range",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Microphone cover is blocked",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Moisture after exercise",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Music sounds poor with CI",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "New map sounds worse",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "No improvement after activation",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "No sound from processor",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Replace or inspect external components first: battery, cable, coil, microphone cover, processor contacts, moisture, and retention. If troubleshooting fails or symptoms are new, contact manufacturer support and the implant center.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "One electrode is uncomfortable",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Parent reports inconsistent response",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Patient cannot tolerate progressive program",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Patient reports ear fullness",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Patient reports headaches with use",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Recheck comfortable loudness levels and reduce overly loud stimulation in affected channels when behavior supports it. Pay attention to high-frequency electrodes or channels for sharpness and confirm that soft access is not unnecessarily reduced.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Phone calls are difficult with CI",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Processor has static or crackling",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Replace or inspect external components first: battery, cable, coil, microphone cover, processor contacts, moisture, and retention. If troubleshooting fails or symptoms are new, contact manufacturer support and the implant center.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Processor will not stay connected",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Remote microphone is not helping",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Retention is poor",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "S sounds are too sharp",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Recheck comfortable loudness levels and reduce overly loud stimulation in affected channels when behavior supports it. Pay attention to high-frequency electrodes or channels for sharpness and confirm that soft access is not unnecessarily reduced.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "School reports poor access",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Skin is red under magnet",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Sound is delayed",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check HA function and verified audibility, CI map comfort, loudness balance using speech and environmental sounds, streaming balance, delay perception, and whether low-frequency acoustic cues complement the CI. Adjust HA gain/coupling and CI levels cautiously.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Speech in quiet is okay but noise is poor",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Review microphone directionality, noise program, remote microphone use, bilateral or bimodal strategy, counseling, and auditory training. Test aided speech in quiet and noise when feasible to separate map access from environmental limits.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Speech is unclear with CI",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Streaming is too soft",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Check microphones, processor, coil, aided thresholds, datalogging, and map use. Consider increasing stimulation levels cautiously in regions with poor access, verify detection across frequency regions, and consider medical or device integrity pathways if responses change suddenly.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "TV streamer is poor",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Voices sound like cartoons",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Counsel that early sound quality may be unusual while the auditory system adapts. Clinically, review global comfort, rate or strategy only if within protocol, frequency allocation concerns, high-frequency channel balance, and whether progressive maps are being advanced too quickly.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Water accessory problem",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  },
+  {
+    "device": "Cochlear implants",
+    "complaint": "Word recognition plateau",
+    "patientChecks": "Check battery, processor, coil, cable, microphone cover, retention, program, volume or sensitivity setting, and whether the issue occurs with all accessories.",
+    "clinicianChecks": "Check external hardware, coil retention, microphone covers, battery, cable, datalogging, impedances, map history, aided detection, patient loudness report, and onset of symptoms before changing the map.",
+    "programming": "Use implant-center protocol and manufacturer-specific software only. Confirm comfortable loudness, dynamic range, electrode status, and whether the complaint is new, progressive, or expected early adaptation.",
+    "acousticDevice": "Inspect external equipment, coil retention, magnet comfort, microphone covers, accessories, aided detection, and implant-center safety pathway.",
+    "redFlags": "Facial twitching, dizziness, pain, swelling, skin breakdown, sudden loss of sound, or new neurologic symptoms requires prompt implant-center or medical guidance.",
+    "documentation": "Patient reported: [complaint]. External equipment, datalogging, impedances, map history, and functional access were reviewed. Counseling and referral pathway documented.",
+    "citations": [
+      "aci-adult-candidacy",
+      "aci-ssd",
+      "azbio-spahr"
+    ]
+  }
+]

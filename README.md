@@ -1,18 +1,19 @@
-# The Audiology Clinician Resource Hub
+# Audiology Clinical Compass
+
+Evidence-based hearing and balance resources for clinicians.
 
 Created by Tahreem Shakeel, AuD Candidate, University of the Pacific, San Francisco, CA.
 
-This package updates the existing GitHub Pages site. It is not a new website from scratch.
+## Open locally
 
-## What changed
+Double-click `index.html`.
 
-- Generic figures removed from patient handouts.
-- Patient PDFs use specific headings, page numbers, and a My notes section only.
-- References are placed on the final page of each PDF.
-- Clinician-only note sections are not included in patient PDFs.
-- Homepage and specialty hubs have been expanded.
-- Student and preceptor center has been expanded.
-- Case history and report-writing library has been added.
-- Condition database has been added.
+## Publish to GitHub Pages
+
+Upload all files and folders in this package into the existing GitHub repository, then use Settings > Pages > Deploy from a branch > main > /(root).
+
+## Integrity notes
+
+This package avoids hosting restricted questionnaires and commercial test materials. Outcome tools link to official or source pages. Research intake cards are included to support expansion without fabricating unverified paper summaries.
 
 Last reviewed: May 12, 2026.

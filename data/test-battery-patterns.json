@@ -1,0 +1,2000 @@
+[
+  {
+    "name": "ASSR follow-up recommendation pattern",
+    "category": "Electrophysiology patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Abnormal ABR neural conduction pattern",
+    "category": "Electrophysiology patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Abnormal wave V latency pattern",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Asymmetric SNHL",
+    "category": "Retrocochlear and neural patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Asymmetric tinnitus and hearing loss",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Auditory neuropathy spectrum disorder adult",
+    "category": "Retrocochlear and neural patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-ansd",
+      "jcih-2019",
+      "aaa-ped-amp"
+    ]
+  },
+  {
+    "name": "Auditory neuropathy spectrum disorder pediatric",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-ansd",
+      "jcih-2019",
+      "aaa-ped-amp"
+    ]
+  },
+  {
+    "name": "Autoimmune inner ear disease pattern",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Benign paroxysmal positional vertigo",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "aao-hns-bppv",
+      "nidcd-balance"
+    ]
+  },
+  {
+    "name": "Bilateral mixed hearing loss",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Bilateral vestibular hypofunction",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Bone-conduction device troubleshooting pattern",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "CAPD referral consideration pattern",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "CI and HA mismatch complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "CI facial stimulation complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "CI intermittent sound complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "CI loudness imbalance complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "CI robotic sound complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "CI sharp high-frequency complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Central vestibular red-flag pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Cerumen occlusion pattern",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Cholesteatoma referral pattern",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Chronic middle-ear disease with SNHL component",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Chronic otitis media pattern",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Cochlear dead region concern",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Congenital CMV hearing loss pattern",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "cdc-cmv",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Electrophysiology vs behavioral discrepancy pattern",
+    "category": "Electrophysiology patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Eustachian tube dysfunction",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Facial weakness with hearing symptoms",
+    "category": "Retrocochlear and neural patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Failed newborn hearing screening pathway",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Fall-risk imbalance pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Hearing aid background-noise complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Hearing aid feedback pattern",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Hearing aid insufficient benefit concern",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Hearing aid loudness intolerance complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Hearing aid own-voice complaint pattern",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Hearing aid speech clarity complaint",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Hearing difficulty with normal audiogram",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Hidden hearing loss / speech-in-noise complaints",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Hyperacusis",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Hypermobile tympanic membrane pattern",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Interaural latency difference concern",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Labyrinthitis",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Meniere's disease pattern",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-menieres",
+      "nidcd-balance",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Meniere's disease vestibular pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-menieres",
+      "nidcd-balance",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Middle-ear dysfunction with tinnitus",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Misophonia",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Mixed hearing loss requiring medical referral",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Mixed hearing loss with middle-ear involvement",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Motion sensitivity pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Multifactorial communication difficulty pattern",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Negative middle ear pressure pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Neurodiagnostic ABR concern pattern",
+    "category": "Electrophysiology patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Noise-induced hearing loss",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Noise-induced tinnitus",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Normal OAEs with abnormal ABR concern",
+    "category": "Electrophysiology patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "OAE absent with normal tympanometry pattern",
+    "category": "Electrophysiology patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Ossicular discontinuity/disarticulation pattern",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Otitis media with effusion",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Otosclerosis pattern",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-otosclerosis",
+      "asha-hearing-loss-adults",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Otosclerosis with mixed loss pattern",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-otosclerosis",
+      "asha-hearing-loss-adults",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Ototoxic hearing loss",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pediatric ANSD",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-ansd",
+      "jcih-2019",
+      "aaa-ped-amp"
+    ]
+  },
+  {
+    "name": "Pediatric auditory inconsistency pattern",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pediatric bilateral SNHL",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pediatric conductive hearing loss",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pediatric cross-check principle concern",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pediatric fluctuating hearing loss",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pediatric sedated ABR referral pathway",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pediatric unilateral hearing loss",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Persistent postural perceptual dizziness",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Poor disproportionate word recognition",
+    "category": "Retrocochlear and neural patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Positional dizziness pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "aao-hns-bppv",
+      "nidcd-balance"
+    ]
+  },
+  {
+    "name": "Presbycusis",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Present OAEs with behavioral discrepancy",
+    "category": "Electrophysiology patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pressure-induced dizziness pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Progressive SNHL",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Pulsatile tinnitus referral pattern",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Remote microphone benefit concern",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Retrocochlear concern pattern",
+    "category": "Retrocochlear and neural patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Single-sided deafness",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Somatic tinnitus concern",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Sound-induced dizziness pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Speech/language delay with hearing concern",
+    "category": "Pediatric patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Streaming/Bluetooth concern pattern",
+    "category": "Device-related patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider device inspection, listening check, datalogging, verification, aided testing, accessory check, map or programming review, and manufacturer or implant-team pathway as appropriate.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Subjective tinnitus with hearing loss",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Sudden sensorineural hearing loss",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "aao-hns-ssnhl",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Symmetric age-related SNHL",
+    "category": "Adult sensorineural and cochlear patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "genereviews-hl",
+      "jcih-2019",
+      "who-hearing"
+    ]
+  },
+  {
+    "name": "Threshold ABR referral pathway",
+    "category": "Electrophysiology patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "asha-hearing-loss-adults",
+      "who-hearing",
+      "fda-ha-warning"
+    ]
+  },
+  {
+    "name": "Tinnitus distress/anxiety pattern",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Tinnitus with normal audiogram",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Tinnitus with vestibular symptoms",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-tinnitus",
+      "asha-counseling",
+      "tfi-ohsu"
+    ]
+  },
+  {
+    "name": "Tympanic membrane perforation",
+    "category": "Conductive and mixed patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nice-ng98",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Unilateral tinnitus red-flag pattern",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Unilateral tinnitus with asymmetry",
+    "category": "Tinnitus and sound tolerance patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider otoscopy, immittance, pure-tone thresholds, speech testing, speech-in-noise, OAEs, acoustic reflexes, ABR, vestibular testing, aided testing, or medical referral depending on the pattern.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Vestibular migraine",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Vestibular neuritis",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Vestibular referral red-flag pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  },
+  {
+    "name": "Vestibular schwannoma referral pattern",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-vs",
+      "fda-ha-warning",
+      "asha-hearing-loss-adults"
+    ]
+  },
+  {
+    "name": "Vestibular symptoms with hearing loss",
+    "category": "Vestibular patterns",
+    "typicalFindings": "Findings may be consistent with the pattern when history, audiologic results, and cross-check measures align. Audiologic findings alone are not diagnostic.",
+    "symptoms": "Symptoms vary and may include hearing difficulty, tinnitus, dizziness, imbalance, sound sensitivity, device difficulty, or listening fatigue.",
+    "tympanometry": "May be normal or abnormal depending on outer-ear and middle-ear involvement. Interpret with otoscopy and history.",
+    "reflexes": "May be present, elevated, absent, decayed, or inconsistent depending on the pattern. Use cautiously with other measures.",
+    "oaes": "May be present, absent, reduced, or inconsistent depending on cochlear outer hair cell status and middle-ear transmission.",
+    "speech": "Speech testing may confirm functional listening difficulty, reveal disproportionate word recognition, or show speech-in-noise deficits not predicted by the audiogram.",
+    "vestibular": "Relevant when dizziness, vertigo, imbalance, falls, sound-induced dizziness, pressure-induced dizziness, or hearing-balance patterns are reported.",
+    "nextBattery": "Consider targeted vestibular case history, positional testing, VNG, calorics, vHIT, VEMP, rotary chair, fall-risk screening, audiogram, and medical referral based on symptoms.",
+    "referral": "Consider ENT, otology, neurology, genetics, vestibular PT, CI center, pediatrician, or urgent care based on red flags and scope.",
+    "counseling": "Use cautious language: findings may be consistent with this pattern, additional testing may be needed, and medical diagnosis requires the appropriate provider.",
+    "notConfirm": "This pattern does not confirm a medical diagnosis by itself.",
+    "citations": [
+      "nidcd-balance",
+      "aao-hns-bppv",
+      "nidcd-menieres"
+    ]
+  }
+]
